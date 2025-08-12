@@ -1,0 +1,12 @@
+import fs from 'fs';
+import { marked } from 'marked';
+
+const md = fs.readFileSync('filnavn.md', 'utf-8');
+const html = marked(md);
+
+fs.writeFileSync('index.html', `
+<html>
+  <head><meta charset="utf-8"><title>Min side</title></head>
+  <body>${html}</body>
+</html>
+`);
