@@ -185,8 +185,7 @@ Weber, M. (2011).  *The Protestant Ethic and the Spirit of Capitalism (S.* Kalbe
 Whyte, W. H. (2013).  *The Organization Man.* University of Pennsylvania Press.  
 Williams, J. (2021).  *Climate Change Is Racist: Race, Privilege and the Struggle for Climate Justice.* Icon Books.  
 Zuboff, S. (2019).  *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.* Hachette UK.  
-
--- 
+ 
 <a id="podcasts"></a>
 ## 📻🎙️ Podcasts that I regularly listen to</h2>
 I am a book person, but occasionally I listen to podcasts. Then these are my go to's
