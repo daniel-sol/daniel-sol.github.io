@@ -6,7 +6,7 @@ const html = marked(md);
 
 fs.writeFileSync('index.html', `
 <html>
-  <head><meta charset="utf-8"><title>Min side</title></head>
+  <head><meta charset="utf-8"><title>Daniel Berge Sollien</title></head>
   <body>${html}</body>
 </html>
 `);
