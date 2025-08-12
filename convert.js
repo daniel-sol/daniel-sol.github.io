@@ -1,7 +1,7 @@
 import fs from 'fs';
 import { marked } from 'marked';
 
-const md = fs.readFileSync('filnavn.md', 'utf-8');
+const md = fs.readFileSync('index.md', 'utf-8');
 const html = marked(md);
 
 fs.writeFileSync('index.html', `
