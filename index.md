@@ -5,6 +5,9 @@
 
 <h1>Daniel Berge Sollien</h1>
 </div>
+
+<font size="1">**Published: {{Date}}**</font>
+
 <img
  style="display: block;
            margin-left: auto;
