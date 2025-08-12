@@ -30,7 +30,7 @@ I am a person that has many interests. I am fond of outdoor activities, passiona
 </img>
 </a>
 <figcaption>
-This is a statue of Jean Jaques Rousseau. A philosophers that has been regarded as quite controversial, but I think his ideas are worth listening to. I have taken this picture on vacation in Paris. 
+This is a statue of Jean Jaques Rousseau. A philosopher that has been regarded as quite controversial, but I think his ideas are worth listening to. I have taken this picture on vacation in Paris. 
 </figcaption>
 </figure>
 
