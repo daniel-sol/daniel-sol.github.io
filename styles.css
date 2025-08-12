@@ -1,0 +1,25 @@
+body {
+    max-width: 80ch;
+    /* maks bredde på teksten */
+    margin: 0 auto;
+    /* sentrerer blokken horisontalt */
+    text-align: left;
+    /* venstrejusterer teksten inne i blokken */
+}
+
+p {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+ul {
+    font-size: 25px;
+    line-height: 35px;
+}
+
+/* .container { */
+/* -webkit-box-orient: vertical; */
+/* display: -webkit-box; */
+/* -webkit-line-clamp: 4; */
+/* overflow: hidden; */
+/* } */
