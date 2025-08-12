@@ -13,8 +13,8 @@
     src="Me_Summer_smaller.jpg">
 </img>
 
-I am a person that has many interests. I am fond of outdoor activities, passionate about music, love my wife and kids to bits, worried about the state of the world, have a really nerdy strange attraction to programming, and much more. My strongest interest these days is what some people call the metacrisis, others the human predicament. I have been diving in to this topic for more than ten years now, I just can&#39;t stop diving further into this topic. I learn more about it from reading books, listening to podcasts, and discussing it with other people. It has lead me to look into topics in philosophy, psychology, sosiology, and alternative economics. One aim of this webpage is that I want to share some of the <a href="#people">people</a>, <a href="#books">books</a> and <a href="#podcasts">podcasts</a> that have inspired me. Go have a look.</p>
-<p>Do checkout my <a href="my_blog.md">blog</a> as well.
+I am a person that has many interests. I am fond of outdoor activities, passionate about music, love my wife and kids to bits, worried about the state of the world, have a really nerdy strange attraction to programming, and much more. My strongest interest these days is what some people call the metacrisis, others the human predicament. I have been diving in to this topic for more than ten years now, I just can&#39;t stop diving further into this topic. I learn more about it from reading books, listening to podcasts, and discussing it with other people. It has lead me to look into topics in philosophy, psychology, sosiology, and alternative economics. One aim of this webpage is that I want to share some of the <a href="#people">people</a>, <a href="#books">books</a> and <a href="#podcasts">podcasts</a> that have inspired me. Go have a look.
+
 
 <a id="people"></a>
 ## 🦸🏼‍♀️ People that have inspired me
