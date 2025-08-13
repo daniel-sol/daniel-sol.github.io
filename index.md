@@ -49,7 +49,7 @@ Dette er en statue av Jean Jaques Rousseau. En filosof som blir sett på som gan
 </img>
 </a>
 <figcaption>
-Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var mattematiker. Skrev en av de store verkene om matte, men gikk så videre til å bli filosof. Jeg beundrer det. Han var ikke noe glad Rousseau. I det siste har jeg begynt å tenke at det sier noe om han, men også noe om tilstanden til den rasjonelle måten vi tolker mening i verden. Jeg har stjålet dette bildet <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">herfra</a>.
+Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var matematiker. Skrev en av de store verkene om matte, men gikk så videre til å bli filosof. Jeg beundrer det. Han var ikke noe glad Rousseau. I det siste har jeg begynt å tenke at det sier noe om han, men også noe om tilstanden til den rasjonelle måten vi tolker mening i verden. Jeg har stjålet dette bildet <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">herfra</a>.
 </figcaption>
 </figure>
 
