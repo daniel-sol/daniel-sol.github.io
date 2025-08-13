@@ -16,11 +16,11 @@
     src="Me_Summer_smaller.jpg">
 </img>
 
-I am a person that has many interests. I am fond of outdoor activities, passionate about music, love my wife and kids to bits, worried about the state of the world, have a really nerdy strange attraction to programming, and much more. My strongest interest these days is what some people call the metacrisis, others the human predicament. I have been diving in to this topic for more than ten years now, and I just cant stop. I learn more about it from reading books, listening to podcasts, and discussing it with other people. It has lead me to look into topics in philosophy, psychology, sosiology, and alternative economics. One aim of this webpage is that I want to share some of the <a href="#people">people</a>, <a href="#books">books</a> and <a href="#podcasts">podcasts</a> that have inspired me. Go have a look.
+Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, lidenskaplig interessert i musikk, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest oppatt for tiden er hva noen kaller metakrisen, andre menneskehetens utfordring. Jeg har fordypt meg i dette tema i over ti år nå, og jeg klarer ikke å stoppe. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap. Et mål med denne nettsiden er å kunne dele noen av de <a href="#people">personene</a>, <a href="#books">bøkene</a> og <a href="#podcasts">podcastene</a> som har inspirert meg. Ta en titt.
 
 
 <a id="people"></a>
-## 🦸🏼‍♀️ People that have inspired me
+## 🦸🏼‍♀️ Personer som har inspirert meg
 
 <figure>
 <a href="https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau" target="_blank">
@@ -33,7 +33,7 @@ I am a person that has many interests. I am fond of outdoor activities, passiona
 </img>
 </a>
 <figcaption>
-This is a statue of Jean Jaques Rousseau. A philosopher that has been regarded as quite controversial, but I think his ideas are worth listening to. I have taken this picture on vacation in Paris. 
+Dette er en statue av Jean Jaques Rousseau. En filosof som blir sett på som ganske kontroversiell, men jeg syns ideene hans er verdt å lytte til. Jeg har tatt dette bildet når vi var på ferie i Paris.
 </figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ This is a statue of Jean Jaques Rousseau. A philosopher that has been regarded a
 </img>
 </a>
 <figcaption>
-This is Bertrand Russell. Another philosopher. He is a hero of mine. He was a mathematician. Wrote one of the definitite works on maths, but then went on to become a philosopher. I admire that. He was not very fond of Rousseau though. And lately I have started to think that that says something about him, but also the state of our rational sensemaking of the world. I have stolen the photo of him from <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">here</a>
+Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var mattematiker. Skrev en av de store verkene om matte, men gikk så videre til å bli filosof. Jeg beundrer det. Han var ikke noe glad Rousseau. I det siste har jeg begynt å tenke at det sier noe om han, men også noe om tilstanden til den rasjonelle måten vi tolker mening i verden. Jeg har stjålet dette bildet <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">herfra</a>.
 </figcaption>
 </figure>
 
@@ -64,8 +64,8 @@ This is Bertrand Russell. Another philosopher. He is a hero of mine. He was a ma
 </img>
 </a>
 <figcaption>
-This is Achille Mbembe, an African philosopher. Shivers went down my spine when I read his book <em>Necroplitics</em>, really discribing the western system, and with the state of the world, also how the world is governed. Photo stolen from 
- <a href="https://pocolit.com/wp-content/uploads/2020/06/Achille_Mbembe-682x1024.jpg">here</a>
+Dette er Achille Mbembe, en Afrikans filosof. Det ilte nedover ryggen på meg når jeg leste boken hans <em>Necroplitics</em>. Den beskriver egentlig det vestlige politiske systemet, og også hvordan verden blir styrt. Bildet er stjålet 
+ <a href="https://pocolit.com/wp-content/uploads/2020/06/Achille_Mbembe-682x1024.jpg">herfra</a>.
 </figcaption>
 </figure>
 
@@ -80,13 +80,13 @@ This is Achille Mbembe, an African philosopher. Shivers went down my spine when 
 </img>
 </a>
 <figcaption>
-This is the Spanish philosopher Marina Garces. I think her call for a radical new enlightment is a clarion call for all of us. Photo stolen from 
- <a href="https://kult.coop/wp-content/uploads/2022/02/Marina_Garces_al_CCCB_2018-2.jpg">here</a>
+Dette er den spanske filosofen Marina Garces. Jeg syns hennes sterke oppfordring om at vi trenger en radikal ny opplysningstid er et kamprop til oss alle. Foto hentet 
+ <a href="https://kult.coop/wp-content/uploads/2022/02/Marina_Garces_al_CCCB_2018-2.jpg">her</a>.
 </figcaption>
 </figure>
 
 <a id="books"></a>
-## 📚 Books about the state of the world
+## 📚 Bøker om menneskehetens tilstand
 Applebaum, A. (2020).  *Twilight of Democracy: The Seductive Lure of Authoritarianism.* Knopf Doubleday Publishing Group.  
 Ariely, D. (2009). *Predictably irrational* HarperCollins UK.  
 Ayres, R. U., & Ayres, E. H. (2009).  *Crossing the Energy Divide: Moving from Fossil Fuel Dependence to a Clean-Energy Future.* Pearson Prentice Hall.  
@@ -187,8 +187,9 @@ Williams, J. (2021).  *Climate Change Is Racist: Race, Privilege and the Struggl
 Zuboff, S. (2019).  *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.* Hachette UK.  
  
 <a id="podcasts"></a>
-## 📻🎙️ Podcasts that I regularly listen to</h2>
-I am a book person, but occasionally I listen to podcasts. Then these are my go to's
+## 📻🎙️ Podcaster som jeg jevnlig hører på
+Jeg er en bok person, men innimellom hører jeg på podcast. Da er det disse jeg vender meg til:
+
 - [Alternativ økonomi]("https://alternativokonomi.no/">)
 - [Energi og klima]("https://www.energiogklima.no/podkast">)
 - [The Great Simplification]("https://www.thegreatsimplification.com/podcast">)
