@@ -7,7 +7,9 @@
 </div>
 
 <font size="1">**Published: {{Date}}**</font>
-
+<a href="index.md">
+<div style="text-align: right">🇳🇴</div>
+</a>
 <img
  style="display: block;
            margin-left: auto;
