@@ -16,7 +16,7 @@
     src="Me_Summer_smaller.jpg">
 </img>
 
-Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, lidenskaplig interessert i musikk, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest oppatt for tiden er hva noen kaller metakrisen, andre menneskehetens utfordring. Jeg har fordypt meg i dette tema i over ti år nå, og jeg klarer ikke å stoppe. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap. Et mål med denne nettsiden er å kunne dele noen av de <a href="#people">personene</a>, <a href="#books">bøkene</a> og <a href="#podcasts">podcastene</a> som har inspirert meg. Ta en titt.
+Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, lidenskaplig interessert i musikk, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest opptatt  av for tiden er hva noen kaller metakrisen, andre menneskehetens utfordring. Jeg har fordypet meg i dette temaet i over ti år nå, og jeg klarer ikke å stoppe. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap. Et av målene med denne nettsiden er å kunne dele noen av de <a href="#people">personene</a>, <a href="#books">bøkene</a> og <a href="#podcasts">podcastene</a> som har inspirert meg. Ta en titt.
 
 
 <a id="people"></a>
@@ -188,7 +188,7 @@ Zuboff, S. (2019).  *The Age of Surveillance Capitalism: The Fight for a Human F
  
 <a id="podcasts"></a>
 ## 📻🎙️ Podcaster som jeg jevnlig hører på
-Jeg er en bok person, men innimellom hører jeg på podcast. Da er det disse jeg vender meg til:
+Jeg er en bokperson, men innimellom hører jeg på podcast. Da er det disse jeg vender meg til:
 
 - [Alternativ økonomi]("https://alternativokonomi.no/">)
 - [Energi og klima]("https://www.energiogklima.no/podkast">)
