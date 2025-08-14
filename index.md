@@ -6,7 +6,7 @@
 <h1>Daniel Berge Sollien</h1>
 </div>
 
-<font size="1">**Published: {{Date}}**</font>
+<font size="1">**Publisert: {{Date}}**</font>
 <a href="index_english.md">
 <div style="text-align: right">🇬🇧</div>
 </a>
