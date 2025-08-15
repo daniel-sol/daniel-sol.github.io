@@ -24,24 +24,24 @@ ${marked(md)}
   console.log(outHtml + " generert");
 }
 
-function mdContentNotChanged(mdFile, md) {
+function mdContentChanged(mdFile, md) {
   const hashFile = mdFile.replace(/\.md/, ".hash");
-  let sameHash = false;
+  let hashChanged = true;
   // Checking if a file with the hash of the file exists
   if (fs.existsSync(hashFile)) {
-    const mdHash = createHash("md5").update(md).digest("hex");
     const fileContent = fs.readFileSync(hashFile, "utf-8");
     if (fileContent === mdHash) {
       console.log("Contents are identical");
-      sameHash = true;
+      hashChanged = false;
     } else {
       console.log("The contents are not identical!");
-      fs.writeFileSync(hashFile, mdHash);
     }
   } else {
     console.log("No pre-generated hash");
+    const mdHash = createHash("md5").update(md).digest("hex");
+    fs.writeFileSync(hashFile, mdHash);
 
-    return sameHash;
+    return hashChanged;
   }
 }
 
@@ -53,13 +53,13 @@ function findMdFiles() {
   return files;
 }
 
-export { findMdFiles, mdContentNotChanged, writeHtml };
+export { findMdFiles, mdContentChanged as mdContentNotChanged, writeHtml };
 
 function main() {
   for (const mdFile of findMdFiles()) {
     const md = fs.readFileSync(mdFile, "utf-8"); // eller din egen fil
     // ...
-    if (mdContentNotChanged(mdFile, md) === false) {
+    if (mdContentChanged(mdFile, md) === true) {
       writeHtml(md, mdFile);
     } else {
       console.log("Not writing");
