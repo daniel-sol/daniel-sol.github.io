@@ -8,6 +8,7 @@
 
 <font size="1">**Publisert: {{Date}}**</font>
 <a href="index_english.md">
+
 <div style="text-align: right">🇬🇧</div>
 </a>
 
@@ -19,10 +20,10 @@
     src="Me_Summer_smaller.jpg">
 </img>
 
-Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, lidenskaplig interessert i musikk, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest opptatt  av for tiden er hva noen kaller metakrisen, andre menneskehetens utfordring. Jeg har fordypet meg i dette temaet i over ti år nå, og jeg klarer ikke å stoppe. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap. Et av målene med denne nettsiden er å kunne dele noen av de <a href="#people">personene</a>, <a href="#books">bøkene</a> og <a href="#podcasts">podcastene</a> som har inspirert meg. Ta en titt.
-
+Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, lidenskaplig interessert i musikk, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest opptatt av for tiden er hva noen kaller metakrisen, andre menneskehetens utfordring. Jeg har fordypet meg i dette temaet i over ti år nå, og jeg klarer ikke å stoppe. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap. Et av målene med denne nettsiden er å kunne dele noen av de <a href="#people">personene</a>, <a href="#books">bøkene</a> og <a href="#podcasts">podcastene</a> som har inspirert meg. Ta en titt.
 
 <a id="people"></a>
+
 ## 🦸🏼‍♀️ Personer som har inspirert meg
 
 <figure>
@@ -51,6 +52,7 @@ Dette er en statue av Jean Jaques Rousseau. En filosof som blir sett på som gan
     src="Bertrand_Russell_photo.jpg">
 </img>
 </a>
+
 <figcaption>
 Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var matematiker. Skrev en av de store verkene om matte, men gikk så videre til å bli filosof. Jeg beundrer det. Han var ikke noe glad Rousseau. I det siste har jeg begynt å tenke at det sier noe om han, men også noe om tilstanden til den rasjonelle måten vi tolker mening i verden. Jeg har stjålet dette bildet <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">herfra</a>.
 </figcaption>
@@ -89,108 +91,112 @@ Dette er den spanske filosofen Marina Garces. Jeg syns hennes sterke oppfordring
 </figure>
 
 <a id="books"></a>
+
 ## 📚 Bøker om menneskehetens tilstand
-Applebaum, A. (2020).  *Twilight of Democracy: The Seductive Lure of Authoritarianism.* Knopf Doubleday Publishing Group.  
-Ariely, D. (2009). *Predictably irrational* HarperCollins UK.  
-Ayres, R. U., & Ayres, E. H. (2009).  *Crossing the Energy Divide: Moving from Fossil Fuel Dependence to a Clean-Energy Future.* Pearson Prentice Hall.  
-Bardhan, P. (2022).  *A World of Insecurity: Democratic Disenchantment in Rich and Poor Countries.* Harvard University Press.  
-Barnes, P. (2014).  *With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don’t Pay Enough.* Berrett-Koehler Publishers.  
-Bjørkdahl, K., & Lykke, K. V. (2023).  *Hva vi spiser når vi spiser kjøtt.* Res Publica.  
-Bloodworth, J. (2018).  *Hired: Six Months Undercover in Low-Wage Britain.* Atlantic Books.  
-Brand, U., & Wissen, M. (2021).  *The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism.* Verso Books.  
-Brøgger, J. (1993).  *Kulturforståelse: En nøkkel til vår internasjonale samtid.* Damm.  
-Bullough, O. (2018).  *Moneyland: Why Thieves And Crooks Now Rule The World And How To Take It Back.* Profile Books.  
-Burnett, D. (2016).  *The Idiot Brain: A Neuroscientist Explains What Your Head is Really Up To.* Guardian Faber Publishing.  
-De Oliveira, V. M. (2021).  *Hospicing modernity: Facing humanity’s wrongs and the implications for social activism.* North Atlantic Books.  
-DiAngelo, R. (2019).  *White Fragility: Why It’s So Hard for White People to Talk About Racism.* Penguin UK.  
-Dixson-Declève, S., Gaffney, O., Ghosh, J., Randers, J., Rockström, J., & Stoknes, P. E. (2022).  *Earth for all: A survival guide for humanity : a report to the Club of Rome (2022) fifty years after The Limits to Growth (1972).* New Society Publishers.  
-Dorling, D. (2020).  *Slowdown: The End of the Great Acceleration—and Why It’s Good for the Planet, the Economy, and Our Lives.* Yale University Press.  
-Durkheim, É. (1951).  *Suicide: A Study in Sociology (G.* Simpson, Red.; J. A. Spaulding & G. Simpson, Overs.). The Free Press.  
-Fisher, M. (2009).  *Capitalist Realism: Is There No Alternative?* John Hunt Publishing.  
-Fisher, R., & Ury, W. (2012).  *Getting to Yes: Negotiating an agreement without giving in.* Random House.  
-Frankl, V. E. (2017).  *Man’s Search for Meaning.* Beacon Press.  
-Fukuyama, F. (2006).  *The End of History and the Last Man.* Simon and Schuster.  
-Fukuyama, F. (2014).  *Political Order and Political Decay: From the Industrial Revolution to the Globalisation of Democracy.* Profile Books.  
-Fukuyama, F. (2018).  *Identity: The Demand for Dignity and the Politics of Resentment.* Farrar, Straus and Giroux.  
-Gabrielsen, B. (2020).  *Skjermslaver.* Kagge forlag as.  
-Garces, M. (2024).  *New Radical Enlightenment: Philosophy for a Common World.* Verso Books.  
-Giblin, R., & Doctorow, C. (2022).  *Chokepoint Capitalism.* Beacon Press.  
-Gleeson-White, J. (2015).  *Six Capitals, or Can Accountants Save the Planet?: Rethinking Capitalism for the Twenty-First Century.* W. W. Norton & Company.  
-Goodhart, D. (2017).  *The Road to Somewhere: The Populist Revolt and the Future of Politics.* Oxford University Press.  
-Graeber, D. (2012).  *Debt: The First 5000 Years.* Penguin Books Limited.  
-Gray, J. (2015).  *Straw Dogs: Thoughts On Humans And Other Animals.* Granta Books.  
-Habermas, J. (1989).  *The Structural Transformation of the Public Sphere: An Inquiry Into a Category of Bourgeois Society.* Polity Press.  
-Harari, Y. N. (2014).  *Sapiens: A Brief History of Humankind: The multi-million copy bestseller.* Random House.  
-Hickel, J. (2020).  *Less is More: How Degrowth Will Save the World.* Random House.  
-Hippe, I. (2021).  *Korstoget mot velferdsstaten: På innsiden av nyliberale tenketanker.* Svein Sandnes Bokforlag.  
-Horkheimer, M., Adorno, T. W., & Noeri, G. (2002).  *Dialectic of Enlightenment.* Stanford University Press.  
-Hull, R. B., Robertson, D. P., & Mortimer, M. (2020).  *Leadership for Sustainability: Strategies for Tackling Wicked Problems.* Island Press.  
-Isaksen, T. R. (2023).  *Ingen tror på nåtiden: Drømmene fra 1989, hvorfor verden blir mørkere og jakten på lyspunkter.* Kagge Forlag.  
-Jackson, T. (2016).  *Prosperity without Growth: Foundations for the Economy of Tomorrow.* Taylor & Francis.  
-Jackson, T. (2021).  *Post Growth: Life after Capitalism.* John Wiley & Sons.  
-Jeffries, S. (2022).  *Everything, All the Time, Everywhere: How We Became Postmodern.* Verso Books.  
-Kahneman, D. (2011).  *Thinking, Fast and Slow.* Penguin UK.  
-Klein, N. (2019).  *On Fire: The Burning Case for a Green New Deal.* Penguin UK.  
-Lasch, C. (1991).  *The Culture of Narcissism: American Life in an Age of Diminishing Expectations.* W. W. Norton & Company.  
-Latour, B. (2018).  *Down to Earth: Politics in the New Climatic Regime.* John Wiley & Sons.  
-Lindgren, L. (2021).  *Ekko: Et essay om algoritmer og begjær.* Gyldendal.  
-Lykkeberg, R. (2019).  *Vesten mod Vesten: Fortællinger om det politiske opbrud fra efterkrigstiden til Brexit og Trump (1.* utg.). Informations Forlag.  
-Marsdal, M. E. (2021).  *Parterapi: For oljefolk og klimaaktivister.* Manifest forlag.  
-Mbembe, A. (2020).  *Necropolitics.* Duke University Press.  
-Mbembe, A. (2022).  *The Earthly Community: Reflections on the Last Utopia.* V2_Publishing.  
-McDonough, W., & Braungart, M. (2013).  *The Upcycle: Beyond Sustainability--Designing for Abundance.* Farrar, Straus and Giroux.  
-McGuire, B. (2022).  *Hothouse Earth: An Inhabitant’s Guide.* Icon Books.  
-Meadows, D. (2008).  *Thinking in Systems: International Bestseller.* Chelsea Green Publishing.  
-Meadows, D., Randers, J., & Meadows, D. (2004).  *Limits to Growth: The 30-Year Update.* Chelsea Green Publishing.  
-Merchant, B. (2023).  *Blood in the Machine: The Origins of the Rebellion Against Big Tech.* Hachette UK.  
-Michaels, F. S. (2011).  *Monoculture: How One Story Is Changing Everything.* Red Clover Press.  
-Milanovic, B. (2023).  *Visions of Inequality: From the French Revolution to the End of the Cold War.* Harvard University Press.  
-Mildenberger, M. (2020).  *Carbon Captured: How Business and Labor Control Climate Politics.* MIT Press.  
-Mishra, P. (2019).  *Raseriets tidsalder.* Solum forlag as.  
-Mjaaland, M. T., Eriksen, T. H., & Hessen, D. O. (2024).  *Antropocen: Menneskets tidsalder.* Res Publica.  
-Monbiot, G. (2004).  *The Age of Consent: A Manifesto for a New World Order.* Harper Perennial.  
-Monbiot, G. (2013).  *Feral: Searching for Enchantment on the Frontiers of Rewilding.* Penguin UK.  
-Moyn, S. (2023).  *Liberalism Against Itself: Cold War Intellectuals and the Making of Our Times.* Yale University Press.  
-Nair, C. (2022).  *Dismantling Global White Privilege: Equity for a Post-Western World.* Berrett-Koehler Publishers.  
-Nørmark, D., & Jensen, A. F. (2018).  *Pseudoarbejde: Hvordan vi fik travlt med at lave ingenting (1.* utg.). Gyldendal Business.  
-Piketty, T. (2015).  *The Economics of Inequality.* Harvard University Press.  
-Piketty, T. (2020).  *Capital and Ideology.* Harvard University Press.  
-Polman, P., & Winston, A. (2021).  *Net Positive: How Courageous Companies Thrive by Giving More Than They Take.* Harvard Business Press.  
-Rathi, A. (2024).  *Climate Capitalism: Winning the Race to Zero Emissions and Solving the Crisis of Our Age.* Greystone Books Ltd.  
-Raworth, K. (2018).  *Doughnut Economics: Seven Ways to Think Like a 21st Century Economist.* Chelsea Green Publishing.  
-Read, R., & Alexander, S. (2019).  *This Civilisation is Finished: Conversations on the end of Empire - and what lies beyond.* Simplicity Institute.  
-Reinertsen, M. B. (2017).  *Reisen til Bretton Woods.* Cappelen Damm.  
-Riesman, D., Glazer, N., & Denney, R. (2020).  *The Lonely Crowd: A Study of the Changing American Character.* Yale University Press.  
-Riise, A. B. (2021).  *Mitt klimaregnskap.* Res Publica.  
-Robinson, K. S. (2020).  *The Ministry for the Future.* Hachette UK.  
-Rogan, T. (2019).  *The Moral Economists: R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism.* Princeton University Press.  
-Rosa, H. (2019).  *Resonance: A Sociology of Our Relationship to the World.* John Wiley & Sons.  
-Rosling, H., Rönnlund, A. R., & Rosling, O. (2018).  *Factfulness: Ten Reasons We’re Wrong About the World--and Why Things Are Better Than You Think.* Flatiron Books.  
-Rushkoff, D. (2022).  *Survival of the Richest: Escape Fantasies of the Tech Billionaires.* W. W. Norton & Company.  
-Russell, B. (2008).  *History of Western Philosophy.* Simon and Schuster.  
-Russell, B. (2022).  *The Problems of Philosophy.* DigiCat.  
-Røyne, A. (2020).  *Varm klode.* Kaldt hode. Kagge forlag as.  
-Said, E. W. (1995).  *Orientalism.* Penguin Books India.  
-Slobodian, Q. (2023).  *Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy.* Random House.  
-Snyder, T. (2017).  *On Tyranny: Twenty Lessons from the Twentieth Century.* Crown.  
-Stalsberg, L. (2021).  *Etter pandemien: Tanker om krise, kapitalisme og en ny hverdag (1.* utg.). Manifest forlag.  
-Stalsberg, L. (2022).  *Det er nok nå: Hvordan nyliberalismen ødelegger mennesker og natur.* Forlaget Manifest AS.  
-Stoknes, P. E. (2020).  *Grønn vekst: En sunn økonomi for det 21.* århundre. Tiden norsk forlag.  
-Stoknes, P. E. (med Jostein Sand Nilsen, & Stoknes, P. E.). (2017).  *Det vi tenker på når vi prøver å ikke tenke på global oppvarming.* Tiden.  
-Taleb, N. N. (2008).  *The Black Swan: The Impact of the Highly Improbable.* Penguin UK.  
-Tetlock, P. E. (2017).  *Expert Political Judgment: How Good Is It? How Can We Know? - New Edition.* Princeton University Press.  
-Tetlock, P., & Gardner, D. (2015).  *Superforecasting: The Art and Science of Prediction.* Random House.  
-Thaler, R. H., & Sunstein, C. R. (2021).  *Nudge: The Final Edition.* Yale University Press.  
-Thompson, H. (2022).  *Disorder: Hard Times in the 21st Century.* Oxford University Press.  
-Vetlesen, A. J., & Henriksen, J.-O. (2022).  *Etikk i klimakrisens tid.* Res Publica.  
-Watson, P. (2023).  *The Modern Mind: An Intellectual History of the 20th Century.* Harper Collins.  
-Weber, M. (2011).  *The Protestant Ethic and the Spirit of Capitalism (S.* Kalberg, Red.). Oxford University Press.  
-Whyte, W. H. (2013).  *The Organization Man.* University of Pennsylvania Press.  
-Williams, J. (2021).  *Climate Change Is Racist: Race, Privilege and the Struggle for Climate Justice.* Icon Books.  
-Zuboff, S. (2019).  *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.* Hachette UK.  
- 
+
+Applebaum, A. (2020). _Twilight of Democracy: The Seductive Lure of Authoritarianism._ Knopf Doubleday Publishing Group.  
+Ariely, D. (2009). _Predictably irrational_ HarperCollins UK.  
+Ayres, R. U., & Ayres, E. H. (2009). _Crossing the Energy Divide: Moving from Fossil Fuel Dependence to a Clean-Energy Future._ Pearson Prentice Hall.  
+Bardhan, P. (2022). _A World of Insecurity: Democratic Disenchantment in Rich and Poor Countries._ Harvard University Press.  
+Barnes, P. (2014). _With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don’t Pay Enough._ Berrett-Koehler Publishers.  
+Bjørkdahl, K., & Lykke, K. V. (2023). _Hva vi spiser når vi spiser kjøtt._ Res Publica.  
+Bloodworth, J. (2018). _Hired: Six Months Undercover in Low-Wage Britain._ Atlantic Books.  
+Brand, U., & Wissen, M. (2021). _The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism._ Verso Books.  
+Brøgger, J. (1993). _Kulturforståelse: En nøkkel til vår internasjonale samtid._ Damm.  
+Bullough, O. (2018). _Moneyland: Why Thieves And Crooks Now Rule The World And How To Take It Back._ Profile Books.  
+Burnett, D. (2016). _The Idiot Brain: A Neuroscientist Explains What Your Head is Really Up To._ Guardian Faber Publishing.  
+De Oliveira, V. M. (2021). _Hospicing modernity: Facing humanity’s wrongs and the implications for social activism._ North Atlantic Books.  
+DiAngelo, R. (2019). _White Fragility: Why It’s So Hard for White People to Talk About Racism._ Penguin UK.  
+Dixson-Declève, S., Gaffney, O., Ghosh, J., Randers, J., Rockström, J., & Stoknes, P. E. (2022). _Earth for all: A survival guide for humanity : a report to the Club of Rome (2022) fifty years after The Limits to Growth (1972)._ New Society Publishers.  
+Dorling, D. (2020). _Slowdown: The End of the Great Acceleration—and Why It’s Good for the Planet, the Economy, and Our Lives._ Yale University Press.  
+Durkheim, É. (1951). _Suicide: A Study in Sociology (G._ Simpson, Red.; J. A. Spaulding & G. Simpson, Overs.). The Free Press.  
+Fisher, M. (2009). _Capitalist Realism: Is There No Alternative?_ John Hunt Publishing.  
+Fisher, R., & Ury, W. (2012). _Getting to Yes: Negotiating an agreement without giving in._ Random House.  
+Frankl, V. E. (2017). _Man’s Search for Meaning._ Beacon Press.  
+Fukuyama, F. (2006). _The End of History and the Last Man._ Simon and Schuster.  
+Fukuyama, F. (2014). _Political Order and Political Decay: From the Industrial Revolution to the Globalisation of Democracy._ Profile Books.  
+Fukuyama, F. (2018). _Identity: The Demand for Dignity and the Politics of Resentment._ Farrar, Straus and Giroux.  
+Gabrielsen, B. (2020). _Skjermslaver._ Kagge forlag as.  
+Garces, M. (2024). _New Radical Enlightenment: Philosophy for a Common World._ Verso Books.  
+Giblin, R., & Doctorow, C. (2022). _Chokepoint Capitalism._ Beacon Press.  
+Gleeson-White, J. (2015). _Six Capitals, or Can Accountants Save the Planet?: Rethinking Capitalism for the Twenty-First Century._ W. W. Norton & Company.  
+Goodhart, D. (2017). _The Road to Somewhere: The Populist Revolt and the Future of Politics._ Oxford University Press.  
+Graeber, D. (2012). _Debt: The First 5000 Years._ Penguin Books Limited.  
+Gray, J. (2015). _Straw Dogs: Thoughts On Humans And Other Animals._ Granta Books.  
+Habermas, J. (1989). _The Structural Transformation of the Public Sphere: An Inquiry Into a Category of Bourgeois Society._ Polity Press.  
+Harari, Y. N. (2014). _Sapiens: A Brief History of Humankind: The multi-million copy bestseller._ Random House.  
+Hickel, J. (2020). _Less is More: How Degrowth Will Save the World._ Random House.  
+Hippe, I. (2021). _Korstoget mot velferdsstaten: På innsiden av nyliberale tenketanker._ Svein Sandnes Bokforlag.  
+Horkheimer, M., Adorno, T. W., & Noeri, G. (2002). _Dialectic of Enlightenment._ Stanford University Press.  
+Hull, R. B., Robertson, D. P., & Mortimer, M. (2020). _Leadership for Sustainability: Strategies for Tackling Wicked Problems._ Island Press.  
+Isaksen, T. R. (2023). _Ingen tror på nåtiden: Drømmene fra 1989, hvorfor verden blir mørkere og jakten på lyspunkter._ Kagge Forlag.  
+Jackson, T. (2016). _Prosperity without Growth: Foundations for the Economy of Tomorrow._ Taylor & Francis.  
+Jackson, T. (2021). _Post Growth: Life after Capitalism._ John Wiley & Sons.  
+Jeffries, S. (2022). _Everything, All the Time, Everywhere: How We Became Postmodern._ Verso Books.  
+Kahneman, D. (2011). _Thinking, Fast and Slow._ Penguin UK.  
+Klein, N. (2019). _On Fire: The Burning Case for a Green New Deal._ Penguin UK.  
+Lasch, C. (1991). _The Culture of Narcissism: American Life in an Age of Diminishing Expectations._ W. W. Norton & Company.  
+Latour, B. (2018). _Down to Earth: Politics in the New Climatic Regime._ John Wiley & Sons.  
+Lindgren, L. (2021). _Ekko: Et essay om algoritmer og begjær._ Gyldendal.  
+Lykkeberg, R. (2019). _Vesten mod Vesten: Fortællinger om det politiske opbrud fra efterkrigstiden til Brexit og Trump (1._ utg.). Informations Forlag.  
+Marsdal, M. E. (2021). _Parterapi: For oljefolk og klimaaktivister._ Manifest forlag.  
+Mbembe, A. (2020). _Necropolitics._ Duke University Press.  
+Mbembe, A. (2022). _The Earthly Community: Reflections on the Last Utopia._ V2*Publishing.  
+McDonough, W., & Braungart, M. (2013). \_The Upcycle: Beyond Sustainability--Designing for Abundance.* Farrar, Straus and Giroux.  
+McGuire, B. (2022). _Hothouse Earth: An Inhabitant’s Guide._ Icon Books.  
+Meadows, D. (2008). _Thinking in Systems: International Bestseller._ Chelsea Green Publishing.  
+Meadows, D., Randers, J., & Meadows, D. (2004). _Limits to Growth: The 30-Year Update._ Chelsea Green Publishing.  
+Merchant, B. (2023). _Blood in the Machine: The Origins of the Rebellion Against Big Tech._ Hachette UK.  
+Michaels, F. S. (2011). _Monoculture: How One Story Is Changing Everything._ Red Clover Press.  
+Milanovic, B. (2023). _Visions of Inequality: From the French Revolution to the End of the Cold War._ Harvard University Press.  
+Mildenberger, M. (2020). _Carbon Captured: How Business and Labor Control Climate Politics._ MIT Press.  
+Mishra, P. (2019). _Raseriets tidsalder._ Solum forlag as.  
+Mjaaland, M. T., Eriksen, T. H., & Hessen, D. O. (2024). _Antropocen: Menneskets tidsalder._ Res Publica.  
+Monbiot, G. (2004). _The Age of Consent: A Manifesto for a New World Order._ Harper Perennial.  
+Monbiot, G. (2013). _Feral: Searching for Enchantment on the Frontiers of Rewilding._ Penguin UK.  
+Moyn, S. (2023). _Liberalism Against Itself: Cold War Intellectuals and the Making of Our Times._ Yale University Press.  
+Nair, C. (2022). _Dismantling Global White Privilege: Equity for a Post-Western World._ Berrett-Koehler Publishers.  
+Nørmark, D., & Jensen, A. F. (2018). _Pseudoarbejde: Hvordan vi fik travlt med at lave ingenting (1._ utg.). Gyldendal Business.  
+Piketty, T. (2015). _The Economics of Inequality._ Harvard University Press.  
+Piketty, T. (2020). _Capital and Ideology._ Harvard University Press.  
+Polman, P., & Winston, A. (2021). _Net Positive: How Courageous Companies Thrive by Giving More Than They Take._ Harvard Business Press.  
+Rathi, A. (2024). _Climate Capitalism: Winning the Race to Zero Emissions and Solving the Crisis of Our Age._ Greystone Books Ltd.  
+Raworth, K. (2018). _Doughnut Economics: Seven Ways to Think Like a 21st Century Economist._ Chelsea Green Publishing.  
+Read, R., & Alexander, S. (2019). _This Civilisation is Finished: Conversations on the end of Empire - and what lies beyond._ Simplicity Institute.  
+Reinertsen, M. B. (2017). _Reisen til Bretton Woods._ Cappelen Damm.  
+Riesman, D., Glazer, N., & Denney, R. (2020). _The Lonely Crowd: A Study of the Changing American Character._ Yale University Press.  
+Riise, A. B. (2021). _Mitt klimaregnskap._ Res Publica.  
+Robinson, K. S. (2020). _The Ministry for the Future._ Hachette UK.  
+Rogan, T. (2019). _The Moral Economists: R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism._ Princeton University Press.  
+Rosa, H. (2019). _Resonance: A Sociology of Our Relationship to the World._ John Wiley & Sons.  
+Rosling, H., Rönnlund, A. R., & Rosling, O. (2018). _Factfulness: Ten Reasons We’re Wrong About the World--and Why Things Are Better Than You Think._ Flatiron Books.  
+Rushkoff, D. (2022). _Survival of the Richest: Escape Fantasies of the Tech Billionaires._ W. W. Norton & Company.  
+Russell, B. (2008). _History of Western Philosophy._ Simon and Schuster.  
+Russell, B. (2022). _The Problems of Philosophy._ DigiCat.  
+Røyne, A. (2020). _Varm klode._ Kaldt hode. Kagge forlag as.  
+Said, E. W. (1995). _Orientalism._ Penguin Books India.  
+Slobodian, Q. (2023). _Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy._ Random House.  
+Snyder, T. (2017). _On Tyranny: Twenty Lessons from the Twentieth Century._ Crown.  
+Stalsberg, L. (2021). _Etter pandemien: Tanker om krise, kapitalisme og en ny hverdag (1._ utg.). Manifest forlag.  
+Stalsberg, L. (2022). _Det er nok nå: Hvordan nyliberalismen ødelegger mennesker og natur._ Forlaget Manifest AS.  
+Stoknes, P. E. (2020). _Grønn vekst: En sunn økonomi for det 21._ århundre. Tiden norsk forlag.  
+Stoknes, P. E. (med Jostein Sand Nilsen, & Stoknes, P. E.). (2017). _Det vi tenker på når vi prøver å ikke tenke på global oppvarming._ Tiden.  
+Taleb, N. N. (2008). _The Black Swan: The Impact of the Highly Improbable._ Penguin UK.  
+Tetlock, P. E. (2017). _Expert Political Judgment: How Good Is It? How Can We Know? - New Edition._ Princeton University Press.  
+Tetlock, P., & Gardner, D. (2015). _Superforecasting: The Art and Science of Prediction._ Random House.  
+Thaler, R. H., & Sunstein, C. R. (2021). _Nudge: The Final Edition._ Yale University Press.  
+Thompson, H. (2022). _Disorder: Hard Times in the 21st Century._ Oxford University Press.  
+Vetlesen, A. J., & Henriksen, J.-O. (2022). _Etikk i klimakrisens tid._ Res Publica.  
+Watson, P. (2023). _The Modern Mind: An Intellectual History of the 20th Century._ Harper Collins.  
+Weber, M. (2011). _The Protestant Ethic and the Spirit of Capitalism (S._ Kalberg, Red.). Oxford University Press.  
+Whyte, W. H. (2013). _The Organization Man._ University of Pennsylvania Press.  
+Williams, J. (2021). _Climate Change Is Racist: Race, Privilege and the Struggle for Climate Justice._ Icon Books.  
+Zuboff, S. (2019). _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power._ Hachette UK.
+
 <a id="podcasts"></a>
+
 ## 📻🎙️ Podcaster som jeg jevnlig hører på
+
 Jeg er en bokperson, men innimellom hører jeg på podcast. Da er det disse jeg vender meg til:
 
 - [Alternativ økonomi]("https://alternativokonomi.no/">)
@@ -200,3 +206,11 @@ Jeg er en bokperson, men innimellom hører jeg på podcast. Da er det disse jeg 
 - [OVERSHOOT]("https://podcasts.apple.com/us/podcast/overshoot-shrink-toward-abundance/id1038456636">)
 - [Verdibørsen]("https://radio.nrk.no/podkast/verdiboersen">)
 
+## 🗞️ Aviser jeg abonnerer på
+
+Jeg mener at redaktørstyrte aviser er viktige. Derfor abonnerer jeg på fler av de, og som jeg selvfølgelig også leser jevnlig. Når det gjelder The Guaridian er det jo egentlig ikke et abonnement, men en støtte.
+
+- [The Guardian]("https://www.theguardian.com/europe")
+- [Klassekampen]("https://klassekampen.no/")
+- [Morgenbladet]("https://www.morgenbladet.no/")
+- [Aftenbladet]("https://www.aftenbladet.no/")
