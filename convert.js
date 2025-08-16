@@ -27,6 +27,7 @@ ${marked(md)}
 function mdContentChanged(mdFile, md) {
   const hashFile = mdFile.replace(/\.md/, ".hash");
   let hashChanged = true;
+  const mdHash = createHash("md5").update(md).digest("hex");
   // Checking if a file with the hash of the file exists
   if (fs.existsSync(hashFile)) {
     const fileContent = fs.readFileSync(hashFile, "utf-8");
@@ -38,7 +39,6 @@ function mdContentChanged(mdFile, md) {
     }
   } else {
     console.log("No pre-generated hash");
-    const mdHash = createHash("md5").update(md).digest("hex");
     fs.writeFileSync(hashFile, mdHash);
 
     return hashChanged;
