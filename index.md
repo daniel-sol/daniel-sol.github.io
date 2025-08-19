@@ -20,7 +20,7 @@
     src="Me_Summer_smaller.jpg">
 </img>
 
-Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, lidenskaplig interessert i musikk, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest opptatt av for tiden er hva noen kaller metakrisen, andre menneskehetens utfordring. Jeg har fordypet meg i dette temaet i over ti år nå, og jeg klarer ikke å stoppe. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap. Et av målene med denne nettsiden er å kunne dele noen av de <a href="#people">personene</a>, <a href="#books">bøkene</a> og <a href="#podcasts">podcastene</a> som har inspirert meg. Ta en titt.
+Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, spesielt når jeg kan være ute i naturen, lidenskaplig interessert i musikk, bekymrer meg for verden, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest opptatt av for tiden, er det noen kaller metakrisen, andre omtaler som menneskehetens utfordringer. Jeg har fordypet meg i dette temaet i over ti år nå, og jeg klarer ikke å stoppe, for det er stadig mer å lære. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap. Et av målene med denne nettsiden er å dele noen av de <a href="#people">personene</a>, <a href="#books">bøkene</a> og <a href="#podcasts">podcastene</a> som har inspirert meg. Ta en titt.
 
 <a id="people"></a>
 
@@ -37,7 +37,8 @@ Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter
 </img>
 </a>
 <figcaption>
-Dette er en statue av Jean Jaques Rousseau. En filosof som blir sett på som ganske kontroversiell, men jeg syns ideene hans er verdt å lytte til. Jeg har tatt dette bildet når vi var på ferie i Paris.
+Dette er en statue av Jean Jaques Rousseau. En filosof som blir sett på som ganske kontroversiell, men jeg syns ideene hans er verdt å lytte til.
+Kort fortalt var han kritisk til deler av den samfunnsutviklingen som kom med opplysningstiden, særlig ideen om at fornuft og sivilisasjon alltid fører til fremskritt. Jeg har tatt dette bildet når vi var på ferie i Paris.
 </figcaption>
 </figure>
 
@@ -54,7 +55,7 @@ Dette er en statue av Jean Jaques Rousseau. En filosof som blir sett på som gan
 </a>
 
 <figcaption>
-Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var matematiker. Skrev en av de store verkene om matte, men gikk så videre til å bli filosof. Jeg beundrer det. Han var ikke noe glad Rousseau. I det siste har jeg begynt å tenke at det sier noe om han, men også noe om tilstanden til den rasjonelle måten vi tolker mening i verden. Jeg har stjålet dette bildet <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">herfra</a>.
+Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var matematiker. Skrev en av de store verkene om matte, men gikk så videre til å bli filosof. Jeg beundrer det. Han var ikke noe glad i Rousseau. I det siste har jeg begynt å tenke at det sier noe om han, men også noe om tilstanden til den rasjonelle måten vi tolker mening i verden. Jeg har lånt dette bildet <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">herfra</a>.
 </figcaption>
 </figure>
 
@@ -69,7 +70,7 @@ Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var m
 </img>
 </a>
 <figcaption>
-Dette er Achille Mbembe, en Afrikans filosof. Det ilte nedover ryggen på meg når jeg leste boken hans <em>Necroplitics</em>. Den beskriver egentlig det vestlige politiske systemet, og også hvordan verden blir styrt. Bildet er stjålet 
+Dette er Achille Mbembe, en Afrikans filosof. Det ilte nedover ryggen på meg når jeg leste boken hans <em>Necroplitics</em>. Den beskriver det vestlige politiske systemet, og også hvordan verden blir styrt. Dette systement blir styrt ved voldsbruk, enten direkte, eller indirekte mener Mbembe. Ikke overraskende trekkes blant annet Palestina frem i denne boken. Bildet er lånt 
  <a href="https://pocolit.com/wp-content/uploads/2020/06/Achille_Mbembe-682x1024.jpg">herfra</a>.
 </figcaption>
 </figure>
@@ -85,7 +86,7 @@ Dette er Achille Mbembe, en Afrikans filosof. Det ilte nedover ryggen på meg n�
 </img>
 </a>
 <figcaption>
-Dette er den spanske filosofen Marina Garces. Jeg syns hennes sterke oppfordring om at vi trenger en radikal ny opplysningstid er et kamprop til oss alle. Foto hentet 
+Dette er den spanske filosofen Marina Garces. Jeg syns hennes sterke oppfordring om at vi trenger en radikal ny opplysningstid er et kamprop til oss alle. I dag vet vi mer om forholdet mellom kunnskap og makt, enn om forholdet mellom kunnskap og frigjøring er en av  Garces sine fem hypoteser i boka hennes. Alle hypotesene er verdt å fundere over mener jeg. Foto hentet 
  <a href="https://kult.coop/wp-content/uploads/2022/02/Marina_Garces_al_CCCB_2018-2.jpg">her</a>.
 </figcaption>
 </figure>

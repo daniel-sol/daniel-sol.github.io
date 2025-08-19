@@ -19,7 +19,7 @@
     src="Me_Summer_smaller.jpg">
 </img>
 
-I am a person that has many interests. I am fond of outdoor activities, passionate about music, love my wife and kids to bits, worried about the state of the world, have a really nerdy strange attraction to programming, and much more. My strongest interest these days is what some people call the metacrisis, others the human predicament. I have been diving in to this topic for more than ten years now, and I just cant stop. I learn more about it from reading books, listening to podcasts, and discussing it with other people. It has lead me to look into topics in philosophy, psychology, sosiology, and alternative economics. One aim of this webpage is that I want to share some of the <a href="#people">people</a>, <a href="#books">books</a> and <a href="#podcasts">podcasts</a> that have inspired me. Go have a look.
+I am a person who has many interests. I am fond of outdoor activities, especially when I can be in nature; passionate about music; love my wife and kids to bits; worry about the state of the world; have a really nerdy, strange love for programming; and much more. My strongest interest these days is what some people call the metacrisis, and others refer to as the human predicament. I have been diving into this topic for more than ten years now, and I just can’t stop. There is always more to learn. I learn more about it from reading books, listening to podcasts, and discussing it with other people. It has led me to look into topics in philosophy, psychology, sociology, and alternative economics. One aim of this webpage is to share some of the <a href="#people">people</a>, <a href="#books">books</a>, and <a href="#podcasts">podcasts</a> that have inspired me. Go have a look.
 
 <a id="people"></a>
 
@@ -36,7 +36,8 @@ I am a person that has many interests. I am fond of outdoor activities, passiona
 </img>
 </a>
 <figcaption>
-This is a statue of Jean Jaques Rousseau. A philosopher that has been regarded as quite controversial, but I think his ideas are worth listening to. I have taken this picture on vacation in Paris. 
+This is a statue of Jean Jaques Rousseau. A philosopher that has been regarded as quite controversial, but I think his ideas are worth listening to.
+In short: he was critical to parts of the changes that were a consequence of the Enlightment, especially the idea that reason and society always leads to progress. I have taken this picture on vacation in Paris. 
 </figcaption>
 </figure>
 
@@ -53,7 +54,7 @@ This is a statue of Jean Jaques Rousseau. A philosopher that has been regarded a
 </a>
 
 <figcaption>
-This is Bertrand Russell. Another philosopher. He is a hero of mine. He was a mathematician. Wrote one of the definitite works on maths, but then went on to become a philosopher. I admire that. He was not very fond of Rousseau though. And lately I have started to think that that says something about him, but also the state of our rational sensemaking of the world. I have stolen the photo of him from <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">here</a>
+This is Bertrand Russell. Another philosopher. He is a hero of mine. He was a mathematician. Wrote one of the definitite works on maths, but then went on to become a philosopher. I admire that. He was not very fond of Rousseau though. And lately I have started to think that that says something about him, but also the state of our rational sensemaking of the world. I have borrowed the photo of him from <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Bertrand_Russell_photo.jpg">here</a>
 </figcaption>
 </figure>
 
@@ -68,7 +69,7 @@ This is Bertrand Russell. Another philosopher. He is a hero of mine. He was a ma
 </img>
 </a>
 <figcaption>
-This is Achille Mbembe, an African philosopher. Shivers went down my spine when I read his book <em>Necroplitics</em>, really discribing the western system, and with the state of the world, also how the world is governed. Photo stolen from 
+This is Achille Mbembe, an African philosopher. Shivers went down my spine when I read his book <em>Necroplitics</em>, really discribing the western system, and with the state of the world, also how the world is governed. The system is upheld by violence, either directly, or indirectly is Mbembes thesis. Not surpricingly Palistine is mentioned in the book. Photo borrowed from 
  <a href="https://pocolit.com/wp-content/uploads/2020/06/Achille_Mbembe-682x1024.jpg">here</a>
 </figcaption>
 </figure>
@@ -84,7 +85,7 @@ This is Achille Mbembe, an African philosopher. Shivers went down my spine when 
 </img>
 </a>
 <figcaption>
-This is the Spanish philosopher Marina Garces. I think her call for a radical new enlightment is a clarion call for all of us. Photo stolen from 
+This is the Spanish philosopher Marina Garcés. I think her call for a radical new Enlightment is a clarion call for all of us. We know more about the relationship between knowledge and power, than we do about the relationship between knowledge and liberty is one of her five hypotheses. All her hypotheses are worth dwelling upon in my opinion. Photo taken from 
  <a href="https://kult.coop/wp-content/uploads/2022/02/Marina_Garces_al_CCCB_2018-2.jpg">here</a>
 </figcaption>
 </figure>
