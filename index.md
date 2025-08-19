@@ -208,7 +208,7 @@ Jeg er en bokperson, men innimellom hører jeg på podcast. Da er det disse jeg 
 
 ## 🗞️ Aviser jeg abonnerer på
 
-Jeg mener at redaktørstyrte aviser er viktige. Derfor abonnerer jeg på fler av de, og som jeg selvfølgelig også leser jevnlig. Når det gjelder The Guaridian er det jo egentlig ikke et abonnement, men en støtte.
+Jeg mener at redaktørstyrte aviser er viktige. Derfor abonnerer jeg på fler av de, og som jeg selvfølgelig også leser jevnlig. Når det gjelder The Guardian er det jo egentlig ikke et abonnement, men en støtte.
 
 - [The Guardian]("https://www.theguardian.com/europe")
 - [Klassekampen]("https://klassekampen.no/")
