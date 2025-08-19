@@ -25,6 +25,7 @@ ${marked(md)}
 }
 
 function mdContentChanged(mdFile, md) {
+  console.log("Checking file: "+ mdFile);
   const hashFile = mdFile.replace(/\.md/, ".hash");
   let hashChanged = true;
   const mdHash = createHash("md5").update(md).digest("hex");
