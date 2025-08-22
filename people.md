@@ -1,7 +1,6 @@
 <head>  
     <link rel="stylesheet" href="styles.css">
 </head>
-<div style="text-align: center;">
 
 <font size="1">**Publisert: {{Date}}**</font>
 <a href="people_english.md">

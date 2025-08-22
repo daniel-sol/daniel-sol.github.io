@@ -1,10 +1,6 @@
 <head>  
     <link rel="stylesheet" href="styles.css">
 </head>
-<div style="text-align: center;">
-
-<h1>Daniel Berge Sollien</h1>
-</div>
 
 <font size="1">**Published: {{Date}}**</font>
 <a href="people.md">
