@@ -53,7 +53,7 @@ This is Bertrand Russell. Another philosopher. He is a hero of mine. He was a ma
 </a>
 </figure>
 
-This is Achille Mbembe, an African philosopher. Shivers went down my spine when I read his book <em>Necroplitics</em>, really discribing the western system, and with the state of the world, also how the world is governed. The system is upheld by violence, either directly, or indirectly is Mbembes thesis. Not surpricingly Palistine is mentioned in the book. Photo borrowed from
+This is Achille Mbembe, an African philosopher. Shivers went down my spine when I read his book <em>Necroplitics</em>, really discribing the western system, and with the state of the world, also how the world is governed. The system is upheld by violence, either directly, or indirectly is Mbembes thesis. Not surpricingly Palestine is mentioned in the book. Photo borrowed from
 <a href="https://pocolit.com/wp-content/uploads/2020/06/Achille_Mbembe-682x1024.jpg">here</a>
 
 <figure>
