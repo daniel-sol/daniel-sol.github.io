@@ -18,6 +18,7 @@ ${marked(md)}
 </html>
 `;
   html = html.replace(/(href="[^"]+)\.md"/gi, '$1.html"');
+
   const outHtml = mdFile.replace(/\.md/g, ".html");
   html = html.replace(/{{Date}}/g, today);
   fs.writeFileSync(outHtml, html);
@@ -27,6 +28,7 @@ ${marked(md)}
 function mdContentChanged(mdFile, md) {
   console.log("Checking file: "+ mdFile);
   const hashFile = mdFile.replace(/\.md/, ".hash");
+  // If hashFile does not exist, assume the file hash changed
   let hashChanged = true;
   const mdHash = createHash("md5").update(md).digest("hex");
   // Checking if a file with the hash of the file exists
@@ -42,8 +44,8 @@ function mdContentChanged(mdFile, md) {
     console.log("No pre-generated hash");
     fs.writeFileSync(hashFile, mdHash);
 
-    return hashChanged;
   }
+  return hashChanged;
 }
 
 function findMdFiles() {
@@ -54,7 +56,7 @@ function findMdFiles() {
   return files;
 }
 
-export { findMdFiles, mdContentChanged as mdContentNotChanged, writeHtml };
+export { findMdFiles, mdContentChanged as mdContentChanged, writeHtml };
 
 function main() {
   for (const mdFile of findMdFiles()) {
