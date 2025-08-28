@@ -53,7 +53,7 @@ Dette er Bertrand Russell. En annen filosof. Han er en av mine helter. Han var m
 </a>
 </figure>
 
-Dette er Achille Mbembe, en Afrikans filosof. Det ilte nedover ryggen på meg når jeg leste boken hans <em>Necroplitics</em>. Den beskriver det vestlige politiske systemet, og også hvordan verden blir styrt. Dette systement blir styrt ved voldsbruk, enten direkte, eller indirekte mener Mbembe. Ikke overraskende trekkes blant annet Palestina frem i denne boken. Bildet er lånt
+Dette er Achille Mbembe, en Afrikans filosof. Det ilte nedover ryggen på meg når jeg leste boken hans <em>Necroplitics</em>. Den beskriver det vestlige politiske systemet, og dermed også hvordan verden blir styrt. Dette systemet blir styrt ved voldsbruk, enten direkte, eller indirekte mener Mbembe. Ikke overraskende trekkes blant annet Palestina frem i denne boken. Bildet er lånt
 <a href="https://pocolit.com/wp-content/uploads/2020/06/Achille_Mbembe-682x1024.jpg">herfra</a>.
 
 <figure>

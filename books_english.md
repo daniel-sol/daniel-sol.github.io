@@ -11,7 +11,7 @@
 <div style="text-align: left;">
 
 I have always been fond of reading books. But the last couple of years it's exploded. I don't remember exactly <u>**when**</u> it started, but it is more than ten years ago. I remember <u>**how**</u> it started though.
-I have worked in the oil industry with modelling of the reservoirs one find oil and/or gas in.
+I have worked in the oil industry with modelling of oil and/or gas reservoirs.
 
 <img
  style="display: block;
@@ -21,7 +21,7 @@ I have worked in the oil industry with modelling of the reservoirs one find oil 
     src="the_modern_mind.jpg">
 </img>
 
-There is a lot one doesn't know about these. They are found many hundreds of meters below the surface. The fields in the North Sea are buried under several hundred thousands of rock, and also below the sea bottom, and the sea water can be very deep. That means that we have a pretty hazy picture about the details down there. To become better at this job I started to read about how our brains work, and especially about what the specialists call cognitive bias. Simply put these are ways our brain can make us get things wrong. Not because you are stupid or something like that, but because your brain is not a computer, but part of a biological being.
+There is a lot one doesn't know about these. They are found many hundreds, if not thousands of meters below the surface. The fields in the North Sea are found under the seabottom, and then buried under several thousands meters of rock. That means that we have a pretty hazy picture about the details down there. Therefore we make digital models that are used for planning. These models contain a lot of assumptions, and many of them can be wrong. As a modeller you are the person behind many of these assumptions. To become better at this job I started to read about how our brains work, and especially about the topic of cognitive bias. Simply put these are ways our brain can make us get things wrong. Not because you are stupid or something like that, but because your brain is not a computer, but part of a biological being.
 <img
  style="display: block;
            margin-left: auto;

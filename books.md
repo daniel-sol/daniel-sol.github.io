@@ -20,7 +20,7 @@ Jeg har alltid vært glad i å lese bøker. Men, det har blitt veldig mange bøk
     src="the_modern_mind.jpg">
 </img>
 
-Det er mye man ikke kan vite om disse, siden de ligger mange hundre meter under bakken. For de norske feltene sin del ligger de begravd under flere tusen meter, og også under sjøvann som kan være veldig dypt. Man har rett og slett et ganske uklart bilde om hvordan detaljene er der nede. For å bli bedre til å gjøre jobben min begynte jeg å lese om hvordan hjernen vår fungerer, og spesielt det som spesialistene kaller kognitiv bias. Enkelt forklart er det måter hjernen vår kan gjøre feil på, ikke fordi du er dum eller noe slikt, men fordi hjernen vår ikke er en datamaskin, men en del av et biologisk vesen.
+Det er mye man ikke kan vite om disse, siden de ligger mange hundre, hvis ikke tusenvis meter under bakken. For de norske feltene sin del ligger de under havbunnen og deretter under flere tusen meter med stein. Derfor har man rett og slett et ganske uklart bilde om hvordan detaljene er der nede. Derfor lager man digitale modeller som man så bruker for planlegging. Disse modellene inneholder ganske mange antagelser, og mange av de kan være feil. Som modellør står man bak mange av disse antagelsene. For å bli bedre til å gjøre jobben min begynte jeg å lese om hvordan hjernen vår fungerer, og spesielt om temaet kognitiv bias. Enkelt forklart er det måter hjernen vår kan gjøre feil på, ikke fordi du er dum eller noe slikt, men fordi hjernen vår ikke er en datamaskin, men en del av et biologisk vesen.
 <img
  style="display: block;
            margin-left: auto;
