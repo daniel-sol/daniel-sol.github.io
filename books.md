@@ -10,7 +10,7 @@
 
 <div style="text-align: left;">
 
-Jeg har alltid vært glad i å lese bøker. Men, det har blitt veldig mange bøker de siste årene. Jeg husker ikke lenger <u>**når**</u> dette startet, men det er iallfall over ti år siden nå. Men, jeg husker <u>**hvordan**</u> det startet. Jeg har jobbet i oljebransjen med modellering av reservoarene som man finner olje og/eller gass i.
+Jeg har alltid vært glad i å lese bøker. Men, det har blitt veldig mange bøker de siste årene. Jeg husker ikke lenger <u>**når**</u> dette startet, men det er iallfall over ti år siden nå. Men, jeg husker <u>**hvordan**</u> det startet. Jeg har jobbet i oljebransjen med modellering av reservoarene som man finner olje og/eller gass i. Hvis du er nysgjerrig om hvilke felter jeg har jobbet med så kan du sjekke ut hvilke jeg har jobbet med <a href="fields.md">her</a>.
 
 <img
  style="display: block;
@@ -20,7 +20,7 @@ Jeg har alltid vært glad i å lese bøker. Men, det har blitt veldig mange bøk
     src="the_modern_mind.jpg">
 </img>
 
-Det er mye man ikke kan vite om disse, siden de ligger mange hundre, hvis ikke tusenvis meter under bakken. For de norske feltene sin del ligger de under havbunnen og deretter under flere tusen meter med stein. Derfor har man rett og slett et ganske uklart bilde om hvordan detaljene er der nede. Derfor lager man digitale modeller som man så bruker for planlegging. Disse modellene inneholder ganske mange antagelser, og mange av de kan være feil. Som modellør står man bak mange av disse antagelsene. For å bli bedre til å gjøre jobben min begynte jeg å lese om hvordan hjernen vår fungerer, og spesielt om temaet kognitiv bias. Enkelt forklart er det måter hjernen vår kan gjøre feil på, ikke fordi du er dum eller noe slikt, men fordi hjernen vår ikke er en datamaskin, men en del av et biologisk vesen.
+Det er mye man ikke kan vite om disse feltene, siden de ligger mange hundre, hvis ikke tusenvis av meter under bakken. For de norske feltene sin del ligger de under havbunnen og deretter under flere tusen meter med stein. Derfor har man rett og slett et ganske uklart bilde om hvordan detaljene er der nede. Derfor lager man digitale modeller som man så bruker for planlegging. Disse modellene inneholder ganske mange antagelser, og mange av de kan være feil. Som modellør står man bak mange av disse antagelsene. For å bli bedre til å gjøre jobben min begynte jeg å lese om hvordan hjernen vår fungerer, og spesielt om temaet kognitiv bias. Enkelt forklart er det måter hjernen vår kan gjøre feil på, ikke fordi du er dum eller noe slikt, men fordi hjernen vår ikke er en datamaskin, men en del av et biologisk vesen.
 <img
  style="display: block;
            margin-left: auto;
