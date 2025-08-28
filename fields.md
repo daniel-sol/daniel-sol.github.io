@@ -1,3 +1,6 @@
+<head>  
+    <link rel="stylesheet" href="styles.css">
+</head>
 ## 🛢️Felt jeg har jobbet med
 
 - Bibi Hakimeh (Iran)
