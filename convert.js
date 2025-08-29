@@ -1,5 +1,5 @@
 import process from "process";
-import { pathToFileURL } from 'url';
+import { pathToFileURL } from "url";
 import fs from "fs";
 import { marked } from "marked";
 import { createHash } from "crypto";
@@ -7,9 +7,9 @@ import { createHash } from "crypto";
 function writeHtml(md, mdFile) {
   const today = new Date().toLocaleDateString("no-NO");
   let sidebar = "";
-  if (mdFile.includes("english")){
+  if (mdFile.includes("english")) {
     sidebar = makeSideBar("english");
-  }else{
+  } else {
     sidebar = makeSideBar("english", true);
   }
 
@@ -35,7 +35,7 @@ ${marked(md)}
 }
 
 function mdContentChanged(mdFile, md) {
-  console.log("Checking file: "+ mdFile);
+  console.log("Checking file: " + mdFile);
   const hashFile = mdFile.replace(/\.md/, ".hash");
   let hashChanged = true;
   const mdHash = createHash("md5").update(md).digest("hex");
@@ -56,6 +56,12 @@ function mdContentChanged(mdFile, md) {
   }
 }
 
+function capitalize(text) {
+  const capitalized = text.charAt(0).toUpperCase() + text.slice(1);
+  console.log(capitalized);
+  return capitalized;
+}
+
 function findMdFiles() {
   const files = fs
     .readdirSync(".")
@@ -64,24 +70,29 @@ function findMdFiles() {
   return files;
 }
 
-function filterMdFiles(filterCriteria, reverse=false) {
- if (reverse === false){
-  return  findMdFiles().filter((word) => word.includes(filterCriteria));
- }else{
-  return  findMdFiles().filter((word) =>  !word.includes(filterCriteria));
- }
+function filterMdFiles(filterCriteria, reverse = false) {
+  if (reverse === false) {
+    return findMdFiles().filter((word) => word.includes(filterCriteria));
+  } else {
+    return findMdFiles().filter((word) => !word.includes(filterCriteria));
+  }
 }
 
-function makeSideBar(filterCriteria, reverse=false) {
+function makeSideBar(filterCriteria, reverse = false) {
   let sidebar = '\n<div class="sidebar">\n';
   let mds = [];
-  if (reverse === false){
-     mds = filterMdFiles(filterCriteria);
-  }else{
+  if (reverse === false) {
+    mds = filterMdFiles(filterCriteria);
+  } else {
     mds = filterMdFiles(filterCriteria, true);
   }
   for (const md of mds) {
-      sidebar += '<div><a href="' + md+'">' + md.replace(/.md/, '') + '</a></div>\n';
+    sidebar +=
+      '<div><a href="' +
+      md +
+      '">' +
+      capitalize(md.replace(/.md/, "").replace(/_english/, "")) +
+      "</a></div>\n";
   }
   sidebar += "</div>\n";
   return sidebar;
@@ -103,6 +114,6 @@ function main() {
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   console.log("Running main");
   main();
-}else{
+} else {
   console.log("This doesn't work");
 }
