@@ -3,7 +3,6 @@
 </head>
 
 <a href="cv_english.md">
-
 <div style="text-align: right">🇬🇧</div>
 </a>
 

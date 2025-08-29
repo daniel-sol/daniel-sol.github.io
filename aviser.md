@@ -1,3 +1,7 @@
+<head>  
+    <link rel="stylesheet" href="styles.css">
+</head>
+
 ## 🗞️ Aviser jeg abonnerer på
 
 Jeg mener at redaktørstyrte aviser er viktige. Derfor abonnerer jeg på fler av de, og som jeg selvfølgelig også leser jevnlig. Når det gjelder The Guardian er det jo egentlig ikke et abonnement, men en støtte.

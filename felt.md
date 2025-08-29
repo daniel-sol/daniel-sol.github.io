@@ -2,7 +2,16 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 
-## 🛢️Felt jeg har jobbet med
+<a href="fields_english.md">
+
+<div style="text-align: right">🇬🇧</div>
+</a>
+
+## 🛢️Olje- og gass-felt jeg har jobbet med
+
+Jeg har jobbet med forskjellige olje- og gass-felt over hele verden.
+Hvert eneste av de feltene som er i listen har sin helt egne utfordringer.
+Fleste parten av dem er selvfølgelig i Norge. Det er der jeg har hatt jobben min. Reservoarene har både vært av vanlig sandstein, kvartsitt, og karbonater. Hvilken type bergart gjør en stor forskjell for hvor lett det er å få oljen eller gassen opp. Jeg har også jobbet med tungolje, det betyr at oljen ikke er lettflytende, men tjukk og seig. Det er også noe som gjør det vanskeligere.
 
 - Bibi Hakimeh (Iran)
 - Ahwaz (Iran)

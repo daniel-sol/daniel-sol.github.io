@@ -3,8 +3,7 @@
 </head>
 
 <a href="cv.md">
-
-<div style="text-align: right">🇬🇧</div>
+<div style="text-align: right">🇳🇴</div>
 </a>
 
 <div style="display: flex; align-items: center;">
