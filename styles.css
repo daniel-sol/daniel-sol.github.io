@@ -1,5 +1,5 @@
 body {
-    max-width: 75ch;
+    max-width: 100ch;
     /* maks bredde på teksten */
     margin: 0 auto;
     /* sentrerer blokken horisontalt */
@@ -16,3 +16,96 @@ ul {
     font-size: 25px;
     line-height: 35px;
 }
+
+span.skill {
+  display: inline-block;
+  background-color: lightgreen;
+  color: black;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid green;
+  font-size: 14px;
+}
+span.date {
+  color: green;
+  font-style: italic;
+  text-align: right;
+}
+span.bread-text {
+  display: inline-block;
+  width: 320px;
+  word-wrap: break-word; /* Bryter ord til neste linje hvis nødvendig */
+}
+
+h6.cv {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-size: 30px;
+}
+body.cv {
+  width: 800px;         /* ca. A4-bredde på skjerm */
+  margin: 0 auto;       /* sentrerer horisontalt */
+  background: white;    /* hvit bakgrunn (som et ark) */
+  padding: 20px;        /* luft innenfor kantene */
+  font-family: Arial, sans-serif; /* pen standard font */
+}
+
+body.cv ul {
+  font-size: 17;
+  line-height: 22px;
+}
+/* Sidebar
+/* Desktop: fixed sidebar on left */
+/* @media (min-width: 768px) {
+    nav {
+      width: 200px;
+      float: left;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+    }
+    main {
+      margin-left: 220px;
+    }
+  } */
+  
+  .sidebar {
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding-top: 40px;
+    background-color: rgb(149, 231, 149);
+  }
+  .sidebar div {
+    padding: 8px;
+    font-size: 24px;
+    display: block;
+  }
+  .body-text {
+    margin-left: 150px;
+    font-size: 18px;
+  }
+
+  /* Mobile: stack sidebar above content */
+  @media (max-width: 767px) {
+    nav {
+      width: 100%;
+    }
+    nav ul {
+      display: flex;
+      flex-wrap: wrap;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    nav li {
+      margin: 5px;
+    }
+    main {
+      margin-left: 0;
+    }
+  }
+  

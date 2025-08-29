@@ -6,6 +6,13 @@ import { createHash } from "crypto";
 
 function writeHtml(md, mdFile) {
   const today = new Date().toLocaleDateString("no-NO");
+  let sidebar = "";
+  if (mdFile.includes("english")){
+    sidebar = makeSideBar("english");
+  }else{
+    sidebar = makeSideBar("english", true);
+  }
+
   let html = `
 <html>
 <head>
@@ -13,12 +20,14 @@ function writeHtml(md, mdFile) {
   <title>Daniel Berge Sollien</title>
 </head>
 <body>
+${sidebar}
+<div class="body-text">
 ${marked(md)}
+</div>
 </body>
 </html>
 `;
   html = html.replace(/(href="[^"]+)\.md"/gi, '$1.html"');
-
   const outHtml = mdFile.replace(/\.md/g, ".html");
   html = html.replace(/{{Date}}/g, today);
   fs.writeFileSync(outHtml, html);
@@ -28,7 +37,6 @@ ${marked(md)}
 function mdContentChanged(mdFile, md) {
   console.log("Checking file: "+ mdFile);
   const hashFile = mdFile.replace(/\.md/, ".hash");
-  // If hashFile does not exist, assume the file hash changed
   let hashChanged = true;
   const mdHash = createHash("md5").update(md).digest("hex");
   // Checking if a file with the hash of the file exists
@@ -44,8 +52,8 @@ function mdContentChanged(mdFile, md) {
     console.log("No pre-generated hash");
     fs.writeFileSync(hashFile, mdHash);
 
+    return hashChanged;
   }
-  return hashChanged;
 }
 
 function findMdFiles() {
@@ -56,7 +64,29 @@ function findMdFiles() {
   return files;
 }
 
-export { findMdFiles, mdContentChanged as mdContentChanged, writeHtml };
+function filterMdFiles(filterCriteria, reverse=false) {
+ if (reverse === false){
+  return  findMdFiles().filter((word) => word.includes(filterCriteria));
+ }else{
+  return  findMdFiles().filter((word) =>  !word.includes(filterCriteria));
+ }
+}
+
+function makeSideBar(filterCriteria, reverse=false) {
+  let sidebar = '\n<div class="sidebar">\n';
+  let mds = [];
+  if (reverse === false){
+     mds = filterMdFiles(filterCriteria);
+  }else{
+    mds = filterMdFiles(filterCriteria, true);
+  }
+  for (const md of mds) {
+      sidebar += '<div><a href="' + md+'">' + md.replace(/.md/, '') + '</a></div>\n';
+  }
+  sidebar += "</div>\n";
+  return sidebar;
+}
+export { findMdFiles, mdContentChanged, makeSideBar, writeHtml };
 
 function main() {
   for (const mdFile of findMdFiles()) {
