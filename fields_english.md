@@ -1,6 +1,7 @@
 <head>  
     <link rel="stylesheet" href="styles.css">
 </head>
+
 ## 🛢️Fields I have been working with
 
 - Bibi Hakimeh (Iran)
@@ -22,8 +23,6 @@
 - Northern Lights (QAA)
 - Martin Linge
 
----
-
 <div style="text-align: center;">
-<a href="people_english.md">🪃</a>
+<a href="books_english.md">🪃</a>
 </div>
