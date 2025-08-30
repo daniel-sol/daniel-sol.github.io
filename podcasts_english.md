@@ -3,10 +3,8 @@
 </head>
 
 <font size="1">**Published: {{Date}}**</font>
-<a href="podcasts.md">
 
-<div style="text-align: right">🇳🇴</div>
-</a>
+<a href="podcaster.md" class="flag-link">🇳🇴</a>
 
 ## 📻🎙️ Podcasts that I regularly listen to</h2>
 
@@ -19,5 +17,4 @@ I am a book person, but occasionally I listen to podcasts. Then these are my go 
 - [OVERSHOOT]("https://podcasts.apple.com/us/podcast/overshoot-shrink-toward-abundance/id1038456636">)
 - [Verdibørsen]("https://radio.nrk.no/podkast/verdiboersen">)
 
-<div style="text-align: center;">
-<a href="index_english.md">🪃</a>
+<a href="index_english.md" class="boom-link">🪃</a>

@@ -3,52 +3,29 @@
 </head>
 
 <font size="1">**Publisert: {{Date}}**</font>
-<a href="books_english.md">
 
-<div style="text-align: right">🇬🇧</div>
-</a>
+<a href="books_english.md" class="flag-link">🇬🇧</a>
 
 <div style="text-align: left;">
 
 Jeg har alltid vært glad i å lese bøker. Men, det har blitt veldig mange bøker de siste årene. Jeg husker ikke lenger <u>**når**</u> dette startet, men det er iallfall over ti år siden nå. Men, jeg husker <u>**hvordan**</u> det startet. Jeg har jobbet i oljebransjen med modellering av reservoarene som man finner olje og/eller gass i. Hvis du er nysgjerrig om hvilke felter jeg har jobbet med så kan du sjekke ut hvilke jeg har jobbet med <a href="fields.md">her</a>.
 
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="the_modern_mind.jpg">
-</img>
+<img src="the_modern_mind.jpg"  class="bilde w30" alt="The Modern Mind">
 
 Det er mye man ikke kan vite om disse feltene, siden de ligger mange hundre, hvis ikke tusenvis av meter under bakken. For de norske feltene sin del ligger de under havbunnen og deretter under flere tusen meter med stein. Derfor har man rett og slett et ganske uklart bilde om hvordan detaljene er der nede. Derfor lager man digitale modeller som man så bruker for planlegging. Disse modellene inneholder ganske mange antagelser, og mange av de kan være feil. Som modellør står man bak mange av disse antagelsene. For å bli bedre til å gjøre jobben min begynte jeg å lese om hvordan hjernen vår fungerer, og spesielt om temaet kognitiv bias. Enkelt forklart er det måter hjernen vår kan gjøre feil på, ikke fordi du er dum eller noe slikt, men fordi hjernen vår ikke er en datamaskin, men en del av et biologisk vesen.
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="thinking_fast_and_slow.png">
-</img>
+
+<img src="thinking_fast_and_slow.png"  class="bilde w30" alt="Thinking fast and slow">
+
 Den mest kjente boka om dette er kanskje boka til **Daniel Kahneman** som heter _Thinking fast and slow_. Altså å tenke fort og langsomt. Han beskriver hvordan mange av de raske måtene har vært helt sentrale for vår overlevelse, spesielt tidlig i menneskehetens utvikling. Men, det er også en kilde til mange feilslutninger som vi gjør. Du kan ikke unngå å gjøre slike feilslutninger, hjernen er laget sånn. Det eneste du kan gjøre er å gjøre deg bevisst på at sånn er vi alle. Og helst ta i mot input fra andre.. Det fikk meg til å lure på hvilke feilslutninger var det jeg gjorde?
 
 Omtrent samtidig, som sagt jeg husker ikke detaljene, leste jeg boken _The modern mind_ av **Peter Watson**. Den er en fantastisk bok som prøver å beskrive hele den intellektuelle utviklingen fra år 1900 til 2000. Jeg begynte å lese boka fordi en kollega fortalte at den ga en god oversikt over all utviklingen innen realfagene som skjedde. Det var gøy å lese om det, jeg er helt enig, men jeg ble like grepet av hva den beskrev om utviklingen innenfor samfunnsfagene. Jeg leste om sosiologiske teorier om hvordan mennesker relaterer seg til hverandre i _The lonely crowd_ av **David Riesman**, teknologikritikken fra **Horkheimer og Adorno** etter andre verdenskrig i _Dialectic of the Enlightment_, hvordan **J.K Galbraith** mente at det amerikanske samfunnet ikke trengte fokusere like mye på produksjon og teknologisk utvikling lenger allerede på slutten av 50 tallet (i boken _The Affluent Society_) og mye mer.
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="the_affluent_society.jpg">
-</img>
+
+<img src="the_affluent_society.jpg" class="bilde w30" alt="The affluent society">
 
 Jeg leste om den den stille våren (_Silent spring_), som er beskrevet som den første boka om miljøvern av **Rachel Carson**, og _Limits to growth_ av **Donella Medows** og andre, blant annet norske **Jørgen Randers**.
 Alt dette har forandret meg, og mitt forhold til verden rett og slett. Etterhvert har jeg lest mange av disse bøkene, og det har også hatt en snøballeffekt.
 
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="limits_to_growth.png">
-</img>
+<img src="limits_to_growth.png" class="bilde w30" alt="Limits to Growth">
 
 Nå leser jeg hele tiden, samtidig som ønskelista mi bare blir lengre. Det har blitt mange, mange bøker etterhvert. Fellestrekket er vel at de har alle noe med menneskeheten, og hvordan vi oppfører oss på denne planeten. Hvis du har lyst til å se lista, ligger den under her.
 
@@ -154,5 +131,4 @@ Williams, J. (2021). _Climate Change Is Racist: Race, Privilege and the Struggle
 Zuboff, S. (2019). _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power._ Hachette UK.
 
 </div>
-<div style="text-align: center;">
-<a href="index.md">🪃</a>
+<a href="index.md" class="boom-link">🪃</a>

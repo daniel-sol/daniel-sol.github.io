@@ -3,10 +3,8 @@
 </head>
 
 <font size="1">**Published: {{Date}}**</font>
-<a href="people.md">
 
-<div style="text-align: right">🇳🇴</div>
-</a>
+<a href="people.md" class="flag-link">🇳🇴</a>
 
 ## 🦸🏼‍♀️ People that have inspired me
 
@@ -71,5 +69,4 @@ This is Achille Mbembe, an African philosopher. Shivers went down my spine when 
 This is the Spanish philosopher Marina Garcés. I think her call for a radical new Enlightment is a clarion call for all of us. We know more about the relationship between knowledge and power, than we do about the relationship between knowledge and liberty is one of her five hypotheses. All her hypotheses are worth dwelling upon in my opinion. Photo taken from
 <a href="https://kult.coop/wp-content/uploads/2022/02/Marina_Garces_al_CCCB_2018-2.jpg">here</a>
 
-<div style="text-align: center;">
-<a href="index_english.md">🪃</a>
+<a href="index_english.md" class="boom-link">🪃</a>

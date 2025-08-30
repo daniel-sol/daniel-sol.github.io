@@ -3,52 +3,30 @@
 </head>
 
 <font size="1">**Published: {{Date}}**</font>
-<a href="books.md">
 
-<div style="text-align: right">🇳🇴</div>
-</a>
+<a href="books.md" class="flag-link">🇳🇴</a>
 
 <div style="text-align: left;">
 
 I have always been fond of reading books. But the last couple of years it's exploded. I don't remember exactly <u>**when**</u> it started, but it is more than ten years ago. I remember <u>**how**</u> it started though.
 I have worked in the oil industry with modelling of oil and/or gas reservoirs.
 
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="the_modern_mind.jpg">
-</img>
+<img src="the_modern_mind.jpg"  class="bilde w30" alt="The Modern Mind">
 
 There is a lot one doesn't know about these. They are found many hundreds, if not thousands of meters below the surface. The fields in the North Sea are found under the seabottom, and then buried under several thousands meters of rock. That means that we have a pretty hazy picture about the details down there. Therefore we make digital models that are used for planning. These models contain a lot of assumptions, and many of them can be wrong. As a modeller you are the person behind many of these assumptions. To become better at this job I started to read about how our brains work, and especially about the topic of cognitive bias. Simply put these are ways our brain can make us get things wrong. Not because you are stupid or something like that, but because your brain is not a computer, but part of a biological being.
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="thinking_fast_and_slow.png">
-</img>
+
+<img src="thinking_fast_and_slow.png"  class="bilde w30" alt="Thinking fast and slow">
+
 The most famous book on this topic is the book by **Daniel Kahneman** called _Thinking fast and slow_. He describes how many of the fast ways that the brain works has been central to our survival, especially early in the development of humanitity. But, it is also a source of fallacies in our thinking. There isn't really any way to avoid these fallacies, your brain is made this way. The only thing you can do is try to be aware of the fact that we all have them. And ideally be prepared to get input from others. This made me wonder, what type of fallacies do I carry with me?
 
 Round about the same time, as mentioned earlier I cannot remember specifically, I read the book _The modern mind_ by **Peter Watson**. It's a fantastic book about the intellectual development from year 1900 to year 2000. I started reading the book because a colleague of mine recommended it. He thought it gave a really good overview about everything that happened in science in the 20th century. It was fun to read about that, I agree, but I was equally fascinated by the development in the social sciences. I read about sociological theories on how humans relate to each other in _The lonely crowd_ by **David Riesman**, criticism of tecnology from **Horkheimer and Adorno** in the _Dialectic of the Enlightment_, how **J.K Galbraith** was of the opinion that the American society didn't need to focus so much on expanding production and developing tecnology further allready at the end of the fifties (in the _The Affluent Society_) and lots more.
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="the_affluent_society.jpg">
-</img>
+
+<img src="the_affluent_society.jpg" class="bilde w30" alt="The affluent society">
 
 I read _Silent spring_, which is described as the first book on environmental protection by **Rachel Carson**, and _Limits to growth_ by **Donella Medows** and others , amongst them norwegian **Jørgen Randers**. All of this changed me, and my relationship to the world. Since then I have read a whole bunch of these books, and it has also had a snowball effect.
 
-<img
- style="display: block;
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="limits_to_growth.png">
-</img>
+<img src="limits_to_growth.png" class="bilde w30" alt="Limits to Growth">
+
 Now I read all the time, while my wishlist is just growing longer. It has become many, many books. I guess the common denominator is that they all are about humanity, and how we behave on this planet. If you want to see the list, you can find it just below. Some of the books are in Norwegian, and I have kept the Norwegian titles of them, but if you hover you should see my translation of the title.
 
 ## 📚 Books about the state of the world
@@ -153,5 +131,5 @@ Williams, J. (2021). _Climate Change Is Racist: Race, Privilege and the Struggle
 Zuboff, S. (2019). _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power._ Hachette UK.
 
 </div>
-<div style="text-align: center;">
-<a href="index_english.md">🪃</a>
+
+<a href="index_english.md" class="boom-link">🪃</a>

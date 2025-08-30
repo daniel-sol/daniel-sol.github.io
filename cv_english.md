@@ -2,9 +2,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 
-<a href="cv.md">
-<div style="text-align: right">🇳🇴</div>
-</a>
+<a href="cv.md" class="flag-link">🇳🇴</a>
 
 <div style="display: flex; align-items: center;">
     <img src="Me_Summer_smaller.jpg" alt="Daniel Sollien" title="Daniel" width="90" height="100" style="border-radius: 45%; margin-right: 15px;"/> 
@@ -97,6 +95,5 @@
 </div>
 <body class="cv">
 
-<div style="text-align: center;">
-<a href="index_english.md">🪃</a>
 </div>
+<a href="index_english.md" class="boom-link">🪃</a>

@@ -2,10 +2,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 
-<a href="felt.md">
-
-<div style="text-align: right">🇳🇴</div>
-</a>
+<a href="felt.md" class="flag-link">🇳🇴</a>
 
 ## 🛢️Oil and gas fields I have been working with
 
@@ -31,6 +28,4 @@ The reservoirs have been both ordinary sandstones, quartsites, and carbonates. W
 - Northern Lights (QAA)
 - Martin Linge
 
-<div style="text-align: center;">
-<a href="books_english.md">🪃</a>
-</div>
+<a href="books_english.md" class="boom-link">🪃</a>

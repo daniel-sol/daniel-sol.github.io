@@ -3,10 +3,8 @@
 </head>
 
 <font size="1">**Publisert: {{Date}}**</font>
-<a href="podcasts_english.md">
 
-<div style="text-align: right">🇬🇧</div>
-</a>
+<a href="podcasts_english.md" class="flag-link">🇬🇧</a>
 
 ## 📻🎙️ Podcaster som jeg jevnlig hører på
 
@@ -19,5 +17,4 @@ Jeg er en bokperson, men innimellom hører jeg på podcast. Da er det disse jeg 
 - [OVERSHOOT]("https://podcasts.apple.com/us/podcast/overshoot-shrink-toward-abundance/id1038456636">)
 - [Verdibørsen]("https://radio.nrk.no/podkast/verdiboersen">)
 
-<div style="text-align: center;">
-<a href="index.md">🪃</a>
+<a href="index.md" class="boom-link">🪃</a>

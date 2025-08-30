@@ -3,10 +3,7 @@
 </head>
 
 <font size="1">**Publisert: {{Date}}**</font>
-<a href="people_english.md">
-
-<div style="text-align: right">🇬🇧</div>
-</a>
+<a href="people_english.md" class="flag-link">🇬🇧</a>
 
 ## 🦸🏼‍♀️ Personer som har inspirert meg
 
@@ -71,6 +68,4 @@ Dette er Achille Mbembe, en Afrikans filosof. Det ilte nedover ryggen på meg n�
 Dette er den spanske filosofen Marina Garces. Jeg syns hennes sterke oppfordring om at vi trenger en radikal ny opplysningstid er et kamprop til oss alle. I dag vet vi mer om forholdet mellom kunnskap og makt, enn om forholdet mellom kunnskap og frigjøring er en av Garces sine fem hypoteser i boka hennes. Alle hypotesene er verdt å fundere over mener jeg. Foto hentet
 <a href="https://kult.coop/wp-content/uploads/2022/02/Marina_Garces_al_CCCB_2018-2.jpg">her</a>.
 
-<div style="text-align: center;">
-<a href="index.md">🪃</a>
-</div>
+<a href="index.md" class="boom-link">🪃</a>

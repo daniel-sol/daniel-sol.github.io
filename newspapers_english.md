@@ -3,10 +3,7 @@
 </head>
 
 <font size="1">**Published: {{Date}}**</font>
-<a href="newspapers.md">
-
-<div style="text-align: right">🇳🇴</div>
-</a>
+<a href="newspapers.md" class="flag-link">🇳🇴</a>
 
 ## 🗞️ Newspapers I have subscriptions to.
 
@@ -17,5 +14,4 @@ Editor-controlled newspapers are important in my opinion. Therefore I subscribe 
 - [Morgenbladet]("https://www.morgenbladet.no/")
 - [Aftenbladet]("https://www.aftenbladet.no/")
 
-<div style="text-align: center;">
-<a href="index_english.md">🪃</a>
+<a href="index_english.md" class="boom-link">🪃</a>

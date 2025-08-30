@@ -17,6 +17,25 @@ ul {
     line-height: 35px;
 }
 
+.flag-link {
+  display: block;
+  text-align: right;
+  text-decoration: none;  /* fjerner understrek */
+  font-size: 20px;        /* gjør flagget større hvis du vil */
+}
+
+.boom-link {
+  display: block;
+  text-align: center;
+  text-decoration: none;  /* fjerner understrek */
+  font-size: 40px;        /* gjør flagget større hvis du vil */
+}
+
+.bilde { display: block; margin: 0 auto; }
+.w30 { width: 30%; }
+.w40 { width: 40%; }
+.w50 { width: 50%; }
+
 span.skill {
   display: inline-block;
   background-color: lightgreen;
