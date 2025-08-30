@@ -13,8 +13,18 @@ p {
 }
 
 ul {
-    font-size: 25px;
-    line-height: 35px;
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 8px;       /* avstand mellom punktene */
+}
+ul ul {
+  margin-top: 4px;       /* avstand over innerste ul */
+  margin-bottom: 6px;      /* juster etter behov */
+  padding-left: 20px;    /* innrykk for nested */
+}
+ul ul li {
+  margin-bottom: 10px;    /* avstand mellom punktene på nested nivå */
+  font-size: 19px;
 }
 
 .flag-link {
