@@ -29,4 +29,4 @@ Fleste parten av dem er selvfølgelig i Norge. Det er der jeg har hatt jobben mi
 - Northern Lights (QAA)
 - Martin Linge
 
-<a href="books.md" class="boom-link">🪃</a>
+<a href="bøkerq.md" class="boom-link">🪃</a>

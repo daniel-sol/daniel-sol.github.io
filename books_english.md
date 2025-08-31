@@ -4,7 +4,7 @@
 
 <font size="1">**Published: {{Date}}**</font>
 
-<a href="books.md" class="flag-link">🇳🇴</a>
+<a href="bøker.md" class="flag-link">🇳🇴</a>
 
 <div style="text-align: left;">
 
