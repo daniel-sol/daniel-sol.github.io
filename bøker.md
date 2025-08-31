@@ -14,7 +14,7 @@ Jeg har alltid vært glad i å lese bøker. Men, det har blitt veldig mange bøk
 
 Det er mye man ikke kan vite om disse feltene, siden de ligger mange hundre, hvis ikke tusenvis av meter under bakken. For de norske feltene sin del ligger de under havbunnen og deretter under flere tusen meter med stein. Derfor har man rett og slett et ganske uklart bilde om hvordan detaljene er der nede. Derfor lager man digitale modeller som man så bruker for planlegging. Disse modellene inneholder ganske mange antagelser, og mange av de kan være feil. Som modellør står man bak mange av disse antagelsene. For å bli bedre til å gjøre jobben min begynte jeg å lese om hvordan hjernen vår fungerer, og spesielt om temaet kognitiv bias. Enkelt forklart er det måter hjernen vår kan gjøre feil på, ikke fordi du er dum eller noe slikt, men fordi hjernen vår ikke er en datamaskin, men en del av et biologisk vesen.
 
-<img src="thinking_fast_and_slow.png"  class="bilde w30" alt="Thinking fast and slow">
+<img src="thinking_fast_and_slow.png"  class="bilde w40" alt="Thinking fast and slow">
 
 Den mest kjente boka om dette er kanskje boka til **Daniel Kahneman** som heter _Thinking fast and slow_. Altså å tenke fort og langsomt. Han beskriver hvordan mange av de raske måtene har vært helt sentrale for vår overlevelse, spesielt tidlig i menneskehetens utvikling. Men, det er også en kilde til mange feilslutninger som vi gjør. Du kan ikke unngå å gjøre slike feilslutninger, hjernen er laget sånn. Det eneste du kan gjøre er å gjøre deg bevisst på at sånn er vi alle. Og helst ta i mot input fra andre.. Det fikk meg til å lure på hvilke feilslutninger var det jeg gjorde?
 
