@@ -29,6 +29,8 @@ Alt dette har forandret meg, og mitt forhold til verden rett og slett. Etterhver
 
 Nå leser jeg hele tiden, samtidig som ønskelista mi bare blir lengre. Det har blitt mange, mange bøker etterhvert. Fellestrekket er vel at de har alle noe med menneskeheten, og hvordan vi oppfører oss på denne planeten. Hvis du har lyst til å se lista, ligger den under her.
 
+<a id="boker"></a>
+
 ## 📚 Bøker om menneskehetens tilstand
 
 Applebaum, A. (2020). _Twilight of Democracy: The Seductive Lure of Authoritarianism._ Knopf Doubleday Publishing Group.  

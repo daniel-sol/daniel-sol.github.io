@@ -29,6 +29,8 @@ I read _Silent spring_, which is described as the first book on environmental pr
 
 Now I read all the time, while my wishlist is just growing longer. It has become many, many books. I guess the common denominator is that they all are about humanity, and how we behave on this planet. If you want to see the list, you can find it just below. Some of the books are in Norwegian, and I have kept the Norwegian titles of them, but if you hover you should see my translation of the title.
 
+<a id="books"></a>
+
 ## 📚 Books about the state of the world
 
 Applebaum, A. (2020). _Twilight of Democracy: The Seductive Lure of Authoritarianism._ Knopf Doubleday Publishing Group.  
