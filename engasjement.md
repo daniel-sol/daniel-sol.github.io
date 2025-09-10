@@ -15,8 +15,8 @@ Etter å ha forstått de skadelige konsekvensene utslipp av klimagasser har på 
 - [Klassekampen 2024](https://klassekampen.no/artikkel/2024-09-05/debatt-a-unnga-en-storulykke)
 - [Aftenbladet 2024](https://www.aftenbladet.no/meninger/debatt/i/OoyO11/klimaaksjoner-blind-lojalitet-hvor-man-bare-gjentar-alt-arbeidsgiveren-sier-har-lite-med-lojalitet-aa-gjoere)
 
-<a href="engasjement.md" class="boom-link">🪃</a>
-
 ## 🕸️ Nettverk
 
 Sommeren 2025 meldte jeg meg som frivillig under den internasjonale konferansen for økologisk økonomi og nedvekst [ISEE-Degrowth 2025](https://isee-degrowth2025.no/). Det var en veldig god opplevelse. Jeg har aldri møtt så mange mennesker som har lignende tanker som meg. Etter dette meldte jeg meg inn i det norske nettverket for nedvekst [Vekstfri Norge](https://vekstfri.no/)
+
+<a href="engasjement.md" class="boom-link">🪃</a>

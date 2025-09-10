@@ -15,8 +15,8 @@ After recognising the damaging effects of greenhouse gas emissions on the enviro
 - [Klassekampen 2024](https://klassekampen.no/artikkel/2024-09-05/debatt-a-unnga-en-storulykke)
 - [Aftenbladet 2024](https://www.aftenbladet.no/meninger/debatt/i/OoyO11/klimaaksjoner-blind-lojalitet-hvor-man-bare-gjentar-alt-arbeidsgiveren-sier-har-lite-med-lojalitet-aa-gjoere)
 
-<a href="index_english.md" class="boom-link">🪃</a>
-
 ## 🕸️ Networks
 
 Summer of 2025 I signed up as a volunteer during the international conference for ecological economy and degrowth [ISEE-Degrowth 2025](https://isee-degrowth2025.no/). That was a very nice experience. I have never met so many people that have similar thoughts to myself. After that I signed up for the Norwegian network for degrowth [Vekstfri Norge](https://vekstfri.no/)
+
+<a href="index_english.md" class="boom-link">🪃</a>
