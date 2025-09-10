@@ -1,18 +1,41 @@
 import process from "process";
+import * as cheerio from "cheerio";
 import { pathToFileURL } from "url";
 import fs from "fs";
 import { marked } from "marked";
 import { createHash } from "crypto";
 
-function writeHtml(md, mdFile) {
-  const today = new Date().toLocaleDateString("no-NO");
+function processMdFile(mdFile) {
+  const md = fs.readFileSync(mdFile, "utf-8"); // eller din egen fil
+  const outHtml = mdFile.replace(/\.md/g, ".html");
+  const oldSidebar = readSidebar(outHtml);
   let sidebar = "";
   if (mdFile.includes("english")) {
     sidebar = makeSideBar("english");
   } else {
     sidebar = makeSideBar("english", true);
   }
+  if ((stringIdentical(oldSidebar, sidebar) === true) &  (mdContentChanged(mdFile, md) === false)) {
+    console.log("Not writing");
+  } else {
+    
+    writeHtml(sidebar, md, outHtml);
+  }
+}
 
+function stringIdentical(one, two){
+
+  let checkone = one.trim().replace(/[\r\n]/g, '');
+  let checktwo = two.trim().replace(/[\r\n]/g, '');
+  console.log("First string --"+checkone+'--');
+  console.log("Second string --"+checktwo+'--');
+  console.log("Length of one ", checkone.length, "Length of two ", checktwo.length);
+  const check = checkone === checktwo;
+  console.log("Returning value of ", check);
+  return check;
+}
+function writeHtml(sidebar, md, outHtml) {
+  const today = new Date().toLocaleDateString("no-NO");
   let html = `
 <html>
 <head>
@@ -28,10 +51,23 @@ ${marked(md)}
 </html>
 `;
   html = html.replace(/(href="[^"]+)\.md"/gi, '$1.html"');
-  const outHtml = mdFile.replace(/\.md/g, ".html");
   html = html.replace(/{{Date}}/g, today);
   fs.writeFileSync(outHtml, html);
   console.log(outHtml + " generert");
+}
+
+function readSidebar(htmlName) {
+  const html = fs.readFileSync(htmlName, "utf-8");
+
+// Last inn i cheerio
+const $ = cheerio.load(html);
+
+// Hent hele div.sidebar (inkludert alle barna)
+const sidebar = $("div.sidebar").prop("outerHTML");
+
+console.log('Returning: ' + sidebar);
+return sidebar;  
+
 }
 
 function mdContentChanged(mdFile, md) {
@@ -95,19 +131,14 @@ function makeSideBar(filterCriteria, reverse = false) {
       "</a></div>\n";
   }
   sidebar += "</div>\n";
+  sidebar = sidebar.replace(/\.md/g, '.html');
   return sidebar;
 }
-export { findMdFiles, mdContentChanged, makeSideBar, writeHtml };
+export { findMdFiles, mdContentChanged, makeSideBar, processMdFile as writeHtml };
 
 function main() {
   for (const mdFile of findMdFiles()) {
-    const md = fs.readFileSync(mdFile, "utf-8"); // eller din egen fil
-    // ...
-    if (mdContentChanged(mdFile, md) === true) {
-      writeHtml(md, mdFile);
-    } else {
-      console.log("Not writing");
-    }
+    processMdFile(mdFile);
   }
 }
 // Optional: run only if executed directly
