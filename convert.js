@@ -51,9 +51,9 @@ function mdContentChanged(mdFile, md) {
   } else {
     console.log("No pre-generated hash");
     fs.writeFileSync(hashFile, mdHash);
-
-    return hashChanged;
   }
+  console.log("Returning value of "+hashChanged)
+  return hashChanged;
 }
 
 function capitalize(text) {
