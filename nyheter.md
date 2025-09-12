@@ -1,0 +1,27 @@
+<head>  
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<font size="1">**Publisert: {{Date}}**</font>
+<a href="news_english.md" class="flag-link">🇬🇧</a>
+
+Jeg prøver å holde meg oppdatert på nyheter så godt jeg kan. Disse er sidene jeg jevnlig kommer tilbake til.
+
+## 🗞️ Aviser jeg abonnerer på
+
+Jeg mener at redaktørstyrte nyheter.er viktige. Derfor abonnerer jeg på fler av de, og som jeg selvfølgelig også leser jevnlig. Når det gjelder The Guardian er det jo egentlig ikke et abonnement, men en støtte.
+
+- [The Guardian](https://www.theguardian.com/europe)
+- [Klassekampen](https://klassekampen.no/)
+- [Morgenbladet](https://www.morgenbladet.no/)
+- [Aftenbladet](https://www.aftenbladet.no/)
+
+## 🆕 Nyhetsbrev
+
+Ved siden av nyheter abonnerer jeg på flere nyhetsbrev. De er alle gratis.
+
+- [Carbon Brief](https://www.carbonbrief.org/)
+- [We don't have time](https://www.wedonthavetime.org/our-community)
+- [Inside climate news](https://insideclimatenews.org/)
+
+<a href="index.md" class="boom-link">🪃</a>
