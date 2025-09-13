@@ -5,6 +5,21 @@ import fs from "fs";
 import { marked } from "marked";
 import { createHash } from "crypto";
 
+const titleDescription = {"Bøker": "Bøkene jeg har lest", 
+  "Cv": "min cv", 
+  "Engasjement": "Hvordan jeg har engasjert meg",
+  "Felt": "Feltene jeg har jobbet med",
+  "Folk": "Noen folk som har inspirert meg",
+  "Hjem": "Min hjemmeside",
+  "Nyheter": "Hvor jeg får nyheter fra",
+  "Podcaster": "Podcastene jeg lytter til",
+  "Books": "The books I have read",
+  "Fields": "The fields I have worked with",
+  "Home": "My homepage",
+  "Involvement": "The ways I have involved myself",
+  "News": "Where I get my news from",
+  "Podcasts": "Podcasts I listen to"
+};
 function processMdFile(mdFile) {
   const md = fs.readFileSync(mdFile, "utf-8"); // eller din egen fil
   const outHtml = mdFile.replace(/\.md/g, ".html");
@@ -36,6 +51,8 @@ function findName(mdFile){
   return name.replace(/english/, "");
 
 }
+
+
 function stringIdentical(one, two){
 
   let checkone = one.trim().replace(/[\r\n]/g, '');
@@ -54,6 +71,7 @@ function writeHtml(sidebar, md, outHtml, title) {
 <head>
   <meta charset="utf-8">
   <title>Daniel Berge Sollien ${title}</title>
+  <meta name="description" content="My journey out of the oil industry, and who I am: ${titleDescription[title]}"/>
 </head>
 <body>
 ${sidebar}
