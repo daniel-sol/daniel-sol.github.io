@@ -1,20 +1,27 @@
 <head>  
     <link rel="stylesheet" href="styles.css">
 </head>
-<div style="text-align: center;">
+<!-- <div style="text-align: center;"> -->
 
-<h1>Daniel Berge Sollien</h1>
-</div>
+<!-- <h1>Daniel Berge Sollien</h1>
+</div> -->
 
 <font size="1">**Publisert: {{Date}}**</font>
 
 <a href="index_english.md" class="flag-link">🇬🇧</a>
 
+Velkommen til denne nettsiden! Håper du finner den interessant. Jeg har laget denne mest for å fortelle om den reisen jeg har hatt de siste årene. Jeg vet det er en del mennesker som har de samme tankene som meg, og ønsker å dele min historie. Kanskje du blir nysgjerrig på disse tankene? Eller, hvis du deler mitt syn allerede, blir inspirert til å dele dine egne tanker med andre?
+
+Under er et bilde av meg, **Daniel Berge Sollien**, jeg har jobbet hele min yrkeskarriere i oljebransjen, men har nå sluttet av samvittighetsårsaker. Beveger du deg rundt på disse sidene vil du finne en del om den reisen jeg har hatt. Men, først litt om hvem jeg er:
+
+<figure>
 <img src="Me_Summer_smaller.jpg"  class="bilde w30">
+<figcaption>Dette er meg.</figcaption>
+</figure>
 
 Jeg er en person med mange interesser. Jeg er veldig glad i utendørsaktiviteter, spesielt når jeg kan være ute i naturen, lidenskaplig interessert i musikk, bekymrer meg for verden, elsker kona og ungene høyt, har en virkelig rar nerdete glede av å programmere, og mye mer. Det jeg er mest opptatt av for tiden, er det noen kaller metakrisen, andre omtaler som menneskehetens utfordringer. Jeg har fordypet meg i dette temaet i over ti år nå, og jeg klarer ikke å stoppe, for det er stadig mer å lære. Jeg lærer mer om situasjonen ved å lese bøker, lytte til podcaster, og ved å diskutere det med andre. Det har ført til at jeg har satt meg inn i temaer innen filosofi, psykologi, sosiologi, alternative økonomiske teorier, og klimavitenskap.
 
-De siste årene har jeg blitt så bekymret at jeg har prøvd å engasjere meg, og også deltatt i den offentlige debatten, for jeg mener vi er på vei i feil retning, egentlig på mange plan. Er du nysgjerrig på hvordan jeg har engasjert meg så kan du ta en titt på <a href="engasjement.md">denne siden</a>.
+De siste årene har jeg blitt så bekymret at jeg har engasjert meg, blant annet deltatt i den offentlige debatten, for jeg mener vi er på vei i feil retning, egentlig på mange plan. Er du nysgjerrig på hvordan jeg har engasjert meg så kan du ta en titt på <a href="engasjement.md">denne siden</a>.
 
 Et av målene med denne nettsiden er å dele noen av de <a href="folk.md">personene</a>, <a href="bøker.md">bøkene</a> og <a href="podcasts.md">podcastene</a> som har inspirert meg. Ta en titt.
 
