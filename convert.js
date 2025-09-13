@@ -19,10 +19,23 @@ function processMdFile(mdFile) {
     console.log("Not writing");
   } else {
     
-    writeHtml(sidebar, md, outHtml);
+    writeHtml(sidebar, md, outHtml, findName(mdFile));
   }
 }
 
+function findName(mdFile){
+  let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " "));
+  if (name.includes("Index")){
+      if (name.includes("english")){
+        name = "Home";
+
+      }else{
+        name = "Hjem";
+      }
+  }
+  return name.replace(/english/, "");
+
+}
 function stringIdentical(one, two){
 
   let checkone = one.trim().replace(/[\r\n]/g, '');
@@ -34,13 +47,13 @@ function stringIdentical(one, two){
   console.log("Returning value of ", check);
   return check;
 }
-function writeHtml(sidebar, md, outHtml) {
+function writeHtml(sidebar, md, outHtml, title) {
   const today = new Date().toLocaleDateString("no-NO");
   let html = `
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Daniel Berge Sollien</title>
+  <title>Daniel Berge Sollien ${title}</title>
 </head>
 <body>
 ${sidebar}
@@ -127,7 +140,7 @@ function makeSideBar(filterCriteria, reverse = false) {
       '<div><a href="' +
       md +
       '">' +
-      capitalize(md.replace(/.md/, "").replace(/_english/, "")) +
+      findName(md) +
       "</a></div>\n";
   }
   sidebar += "</div>\n";
