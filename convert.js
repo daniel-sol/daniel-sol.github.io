@@ -23,7 +23,13 @@ const titleDescription = {"Bøker": "Bøkene jeg har lest",
 function processMdFile(mdFile) {
   const md = fs.readFileSync(mdFile, "utf-8"); // eller din egen fil
   const outHtml = mdFile.replace(/\.md/g, ".html");
-  const oldSidebar = readSidebar(outHtml);
+  let oldSidebar = "";
+  try {
+    oldSidebar = readSidebar(outHtml);
+  } catch(err) {
+    console.log("No html gives error:" +err);
+
+  }
   let sidebar = "";
   if (mdFile.includes("english")) {
     sidebar = makeSideBar("english");
@@ -52,6 +58,7 @@ function findName(mdFile){
 
 }
 
+<<<<<<< Updated upstream
 
 function stringIdentical(one, two){
 
@@ -60,6 +67,44 @@ function stringIdentical(one, two){
   console.log("First string --"+checkone+'--');
   console.log("Second string --"+checktwo+'--');
   console.log("Length of one ", checkone.length, "Length of two ", checktwo.length);
+=======
+function defineHead(mdFile) {
+  let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " "));
+  const published = mdFile.includes("english") ? "Published": "Publisert";
+  const today = new Date().toLocaleDateString("no-NO");
+  const publishStatement =
+    '<font size="1"><strong>' + published + ": " + today+ '</strong></font>';
+  name = name.includes("Index english") ? "Home":
+         name.includes("Index") ? "Hjem":
+         name;
+  const title = name.replace(/english/, "");
+  const description = titleDescription[name];
+  console.log("Name ", name, "-> title: ", title, " and description: ", description);
+  const head = `
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="styles.css">
+<title>Daniel Berge Sollien ${title}</title>
+<meta name="description" content="My journey out of the oil industry, and who I am: ${description}"/>
+<meta property="article:published_time" content="${today}" />
+</head>
+${publishStatement}
+`;
+  return head;
+}
+
+function stringIdentical(one, two) {
+  let checkone = one.trim().replace(/[\r\n]/g, "");
+  let checktwo = two.trim().replace(/[\r\n]/g, "");
+  console.log("First string --" + checkone + "--");
+  console.log("Second string --" + checktwo + "--");
+  console.log(
+    "Length of one ",
+    checkone.length,
+    "Length of two ",
+    checktwo.length,
+  );
+>>>>>>> Stashed changes
   const check = checkone === checktwo;
   console.log("Returning value of ", check);
   return check;
@@ -165,7 +210,18 @@ function makeSideBar(filterCriteria, reverse = false) {
   sidebar = sidebar.replace(/\.md/g, '.html');
   return sidebar;
 }
+<<<<<<< Updated upstream
 export { findMdFiles, mdContentChanged, makeSideBar, processMdFile as writeHtml };
+=======
+export {
+  findMdFiles,
+  mdContentChanged,
+  makeSideBar,
+  writeHtml, 
+  titleDescription
+}
+>>>>>>> Stashed changes
+
 
 function main() {
   for (const mdFile of findMdFiles()) {
