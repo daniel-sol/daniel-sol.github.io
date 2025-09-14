@@ -40,7 +40,7 @@ function processMdFile(mdFile) {
     console.log("Not writing");
   } else {
     
-    writeHtml(sidebar, md, outHtml, findName(mdFile));
+    writeHtml(sidebar, md, outHtml, mdFile);
   }
 }
 
@@ -58,16 +58,6 @@ function findName(mdFile){
 
 }
 
-<<<<<<< Updated upstream
-
-function stringIdentical(one, two){
-
-  let checkone = one.trim().replace(/[\r\n]/g, '');
-  let checktwo = two.trim().replace(/[\r\n]/g, '');
-  console.log("First string --"+checkone+'--');
-  console.log("Second string --"+checktwo+'--');
-  console.log("Length of one ", checkone.length, "Length of two ", checktwo.length);
-=======
 function defineHead(mdFile) {
   let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " "));
   const published = mdFile.includes("english") ? "Published": "Publisert";
@@ -104,20 +94,15 @@ function stringIdentical(one, two) {
     "Length of two ",
     checktwo.length,
   );
->>>>>>> Stashed changes
   const check = checkone === checktwo;
   console.log("Returning value of ", check);
   return check;
 }
-function writeHtml(sidebar, md, outHtml, title) {
+function writeHtml(sidebar, md, outHtml, fileName) {
   const today = new Date().toLocaleDateString("no-NO");
   let html = `
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>Daniel Berge Sollien ${title}</title>
-  <meta name="description" content="My journey out of the oil industry, and who I am: ${titleDescription[title]}"/>
-</head>
+${defineHead(fileName)}
 <body>
 ${sidebar}
 <div class="body-text">
@@ -127,7 +112,6 @@ ${marked(md)}
 </html>
 `;
   html = html.replace(/(href="[^"]+)\.md"/gi, '$1.html"');
-  html = html.replace(/{{Date}}/g, today);
   fs.writeFileSync(outHtml, html);
   console.log(outHtml + " generert");
 }
@@ -210,9 +194,7 @@ function makeSideBar(filterCriteria, reverse = false) {
   sidebar = sidebar.replace(/\.md/g, '.html');
   return sidebar;
 }
-<<<<<<< Updated upstream
-export { findMdFiles, mdContentChanged, makeSideBar, processMdFile as writeHtml };
-=======
+
 export {
   findMdFiles,
   mdContentChanged,
@@ -220,8 +202,6 @@ export {
   writeHtml, 
   titleDescription
 }
->>>>>>> Stashed changes
-
 
 function main() {
   for (const mdFile of findMdFiles()) {
