@@ -1,7 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
 <a href="felt.md" class="flag-link">🇳🇴</a>
 
 ## 🛢️Oil and gas fields I have been working with

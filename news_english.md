@@ -1,8 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<font size="1">**Published: {{Date}}**</font>
 <a href="nyheter.md" class="flag-link">🇳🇴</a>
 
 I try to keep updated on news as much as I can. These are the sites that I keep coming back to.

@@ -1,12 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-<!-- <div style="text-align: center;">
-
-<!-- <h1>Daniel Berge Sollien</h1>
-</div> -->
-
-<font size="1">**Published: {{Date}}**</font>
 <a href="index.md" class="flag-link">🇳🇴</a>
 
 Welcome to this website! I hope you find it interesting. I have made it mostly to tell about the journey I have been on the last couple of years.

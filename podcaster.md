@@ -1,9 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<font size="1">**Publisert: {{Date}}**</font>
-
 <a href="podcasts_english.md" class="flag-link">🇬🇧</a>
 
 ## 📻🎙️ Podcaster som jeg jevnlig hører på

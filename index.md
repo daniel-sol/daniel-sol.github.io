@@ -1,13 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-<!-- <div style="text-align: center;"> -->
-
-<!-- <h1>Daniel Berge Sollien</h1>
-</div> -->
-
-<font size="1">**Publisert: {{Date}}**</font>
-
 <a href="index_english.md" class="flag-link">🇬🇧</a>
 
 Velkommen til denne nettsiden! Håper du finner den interessant. Jeg har laget denne mest for å fortelle om den reisen jeg har hatt de siste årene. Jeg vet det er en del mennesker som har de samme tankene som meg, og ønsker å dele min historie. Kanskje du blir nysgjerrig på disse tankene? Eller, hvis du deler mitt syn allerede, blir inspirert til å dele dine egne tanker med andre?

@@ -1,7 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
 <a href="fields_english.md" class="flag-link">🇬🇧</a>
 
 ## 🛢️Olje- og gass-felt jeg har jobbet med
@@ -29,4 +25,4 @@ Fleste parten av dem er selvfølgelig i Norge. Det er der jeg har hatt jobben mi
 - Northern Lights (QAA)
 - Martin Linge
 
-<a href="bøkerq.md" class="boom-link">🪃</a>
+<a href="bøker.md" class="boom-link">🪃</a>

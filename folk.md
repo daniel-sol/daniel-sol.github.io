@@ -1,8 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<font size="1">**Publisert: {{Date}}**</font>
 <a href="people_english.md" class="flag-link">🇬🇧</a>
 
 ## 🦸🏼‍♀️ Personer som har inspirert meg

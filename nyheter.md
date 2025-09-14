@@ -1,8 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<font size="1">**Publisert: {{Date}}**</font>
 <a href="news_english.md" class="flag-link">🇬🇧</a>
 
 Jeg prøver å holde meg oppdatert på nyheter så godt jeg kan. Disse er sidene jeg jevnlig kommer tilbake til.

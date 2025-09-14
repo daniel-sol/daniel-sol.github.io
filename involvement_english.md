@@ -1,8 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<font size="1">**Published: {{Date}}**</font>
 <a href="engasjement.md" class="flag-link">🇳🇴</a>
 
 ## 🗞️📺 In the Media (In Norwegian)

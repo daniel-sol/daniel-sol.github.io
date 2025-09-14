@@ -1,7 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
 <a href="cv.md" class="flag-link">🇳🇴</a>
 
 <div style="display: flex; align-items: center;">

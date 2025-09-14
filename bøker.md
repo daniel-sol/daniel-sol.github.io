@@ -1,9 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<font size="1">**Publisert: {{Date}}**</font>
-
 <a href="books_english.md" class="flag-link">🇬🇧</a>
 
 <div style="text-align: left;">

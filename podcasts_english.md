@@ -1,9 +1,3 @@
-<head>  
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<font size="1">**Published: {{Date}}**</font>
-
 <a href="podcaster.md" class="flag-link">🇳🇴</a>
 
 ## 📻🎙️ Podcasts that I regularly listen to</h2>
