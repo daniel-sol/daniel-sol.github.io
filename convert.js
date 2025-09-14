@@ -6,7 +6,8 @@ import { marked } from "marked";
 import { createHash } from "crypto";
 
 const titleDescription = {"Bøker": "Bøkene jeg har lest", 
-  "Cv": "min cv", 
+  "Cv": "min cv",
+  "Cv english": "My cv",
   "Engasjement": "Hvordan jeg har engasjert meg",
   "Felt": "Feltene jeg har jobbet med",
   "Folk": "Noen folk som har inspirert meg",
@@ -14,11 +15,11 @@ const titleDescription = {"Bøker": "Bøkene jeg har lest",
   "Nyheter": "Hvor jeg får nyheter fra",
   "Podcaster": "Podcastene jeg lytter til",
   "Books": "The books I have read",
-  "Fields": "The fields I have worked with",
+  "Fields english": "The fields I have worked with",
   "Home": "My homepage",
-  "Involvement": "The ways I have involved myself",
-  "News": "Where I get my news from",
-  "Podcasts": "Podcasts I listen to"
+  "Involvement english": "The ways I have involved myself",
+  "News english": "Where I get my news from",
+  "Podcasts english": "Podcasts I listen to"
 };
 function processMdFile(mdFile) {
   const md = fs.readFileSync(mdFile, "utf-8"); // eller din egen fil
@@ -44,8 +45,8 @@ function processMdFile(mdFile) {
   }
 }
 
-function findName(mdFile){
-  let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " "));
+function findName(mdFile, remove_english = true){
+  let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " ")).trim();
   if (name.includes("Index")){
       if (name.includes("english")){
         name = "Home";
