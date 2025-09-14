@@ -5,21 +5,22 @@ import fs from "fs";
 import { marked } from "marked";
 import { createHash } from "crypto";
 
-const titleDescription = {"Bøker": "Bøkene jeg har lest", 
-  "Cv": "min cv",
+const titleDescription = {
+  Bøker: "Bøkene jeg har lest",
+  Cv: "min cv",
   "Cv english": "My cv",
-  "Engasjement": "Hvordan jeg har engasjert meg",
-  "Felt": "Feltene jeg har jobbet med",
-  "Folk": "Noen folk som har inspirert meg",
-  "Hjem": "Min hjemmeside",
-  "Nyheter": "Hvor jeg får nyheter fra",
-  "Podcaster": "Podcastene jeg lytter til",
-  "Books": "The books I have read",
+  Engasjement: "Hvordan jeg har engasjert meg",
+  Felt: "Feltene jeg har jobbet med",
+  Folk: "Noen folk som har inspirert meg",
+  Hjem: "Min hjemmeside",
+  Nyheter: "Hvor jeg får nyheter fra",
+  Podcaster: "Podcastene jeg lytter til",
+  Books: "The books I have read",
   "Fields english": "The fields I have worked with",
-  "Home": "My homepage",
+  Home: "My homepage",
   "Involvement english": "The ways I have involved myself",
   "News english": "Where I get my news from",
-  "Podcasts english": "Podcasts I listen to"
+  "Podcasts english": "Podcasts I listen to",
 };
 function processMdFile(mdFile) {
   const md = fs.readFileSync(mdFile, "utf-8"); // eller din egen fil
@@ -27,9 +28,8 @@ function processMdFile(mdFile) {
   let oldSidebar = "";
   try {
     oldSidebar = readSidebar(outHtml);
-  } catch(err) {
-    console.log("No html gives error:" +err);
-
+  } catch (err) {
+    console.log("No html gives error:" + err);
   }
   let sidebar = "";
   if (mdFile.includes("english")) {
@@ -37,46 +37,58 @@ function processMdFile(mdFile) {
   } else {
     sidebar = makeSideBar("english", true);
   }
-  if ((stringIdentical(oldSidebar, sidebar) === true) &  (mdContentChanged(mdFile, md) === false)) {
+  if (
+    (stringIdentical(oldSidebar, sidebar) === true) &
+    (mdContentChanged(mdFile, md) === false)
+  ) {
     console.log("Not writing");
   } else {
-    
     writeHtml(sidebar, md, outHtml, mdFile);
   }
 }
 
-function findName(mdFile, remove_english = true){
+function findName(mdFile) {
   let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " ")).trim();
-  if (name.includes("Index")){
-      if (name.includes("english")){
-        name = "Home";
-
-      }else{
-        name = "Hjem";
-      }
+  if (name.includes("Index")) {
+    if (name.includes("english")) {
+      name = "Home";
+    } else {
+      name = "Hjem";
+    }
   }
   return name.replace(/english/, "");
-
 }
 
 function defineHead(mdFile) {
   let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " "));
-  const published = mdFile.includes("english") ? "Published": "Publisert";
+  const published = mdFile.includes("english") ? "Published" : "Publisert";
   const today = new Date().toLocaleDateString("no-NO");
   const publishStatement =
-    '<font size="1"><strong>' + published + ": " + today+ '</strong></font>';
-  name = name.includes("Index english") ? "Home":
-         name.includes("Index") ? "Hjem":
-         name;
+    '<font size="1"><strong>' + published + ": " + today + "</strong></font>";
+  name = name.includes("Index english")
+    ? "Home"
+    : name.includes("Index")
+      ? "Hjem"
+      : name;
   const title = name.replace(/english/, "");
+  const description_stem = mdFile.includes("english")
+    ? "My journey out of the oil industry, and who I am: "
+    : "Min reise ut av oljebransjen, og hvem jeg er: ";
   const description = titleDescription[name];
-  console.log("Name ", name, "-> title: ", title, " and description: ", description);
+  console.log(
+    "Name ",
+    name,
+    "-> title: ",
+    title,
+    " and description: ",
+    description,
+  );
   const head = `
 <head>
 <meta charset="utf-8">
 <link rel="stylesheet" href="styles.css">
 <title>Daniel Berge Sollien ${title}</title>
-<meta name="description" content="My journey out of the oil industry, and who I am: ${description}"/>
+<meta name="description" content="${description_stem} ${description}"/>
 <meta property="article:published_time" content="${today}" />
 </head>
 ${publishStatement}
@@ -100,7 +112,6 @@ function stringIdentical(one, two) {
   return check;
 }
 function writeHtml(sidebar, md, outHtml, fileName) {
-  const today = new Date().toLocaleDateString("no-NO");
   let html = `
 <html>
 ${defineHead(fileName)}
@@ -120,15 +131,14 @@ ${marked(md)}
 function readSidebar(htmlName) {
   const html = fs.readFileSync(htmlName, "utf-8");
 
-// Last inn i cheerio
-const $ = cheerio.load(html);
+  // Last inn i cheerio
+  const $ = cheerio.load(html);
 
-// Hent hele div.sidebar (inkludert alle barna)
-const sidebar = $("div.sidebar").prop("outerHTML");
+  // Hent hele div.sidebar (inkludert alle barna)
+  const sidebar = $("div.sidebar").prop("outerHTML");
 
-console.log('Returning: ' + sidebar);
-return sidebar;  
-
+  console.log("Returning: " + sidebar);
+  return sidebar;
 }
 
 function mdContentChanged(mdFile, md) {
@@ -149,7 +159,7 @@ function mdContentChanged(mdFile, md) {
     console.log("No pre-generated hash");
     fs.writeFileSync(hashFile, mdHash);
   }
-  console.log("Returning value of "+hashChanged)
+  console.log("Returning value of " + hashChanged);
   return hashChanged;
 }
 
@@ -184,15 +194,10 @@ function makeSideBar(filterCriteria, reverse = false) {
     mds = filterMdFiles(filterCriteria, true);
   }
   for (const md of mds) {
-    sidebar +=
-      '<div><a href="' +
-      md +
-      '">' +
-      findName(md) +
-      "</a></div>\n";
+    sidebar += '<div><a href="' + md + '">' + findName(md) + "</a></div>\n";
   }
   sidebar += "</div>\n";
-  sidebar = sidebar.replace(/\.md/g, '.html');
+  sidebar = sidebar.replace(/\.md/g, ".html");
   return sidebar;
 }
 
@@ -200,9 +205,9 @@ export {
   findMdFiles,
   mdContentChanged,
   makeSideBar,
-  writeHtml, 
-  titleDescription
-}
+  writeHtml,
+  titleDescription,
+};
 
 function main() {
   for (const mdFile of findMdFiles()) {
