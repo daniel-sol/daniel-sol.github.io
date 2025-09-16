@@ -130,12 +130,15 @@ body.cv ul {
     padding: 0 10px; /* litt luft på sidene */
   }
 
+  .body-text {
+    margin-top: 10px; /* eller litt mer hvis du vil ha mer luft */
+  }
+
   .menu {
     display: none;   /* skjul menyen til å begynne med */
   }
   .menu-toggle {
-    position: absolute;
-    z-index: 9999;   
+    top: 10px;          /* litt luft fra toppen */   
     display: block;            /* vis knappen */
     background-color: #95e79f; /* lys grønn bakgrunn */
     color: black;              /* tekst/farge på ☰ */
@@ -150,10 +153,11 @@ body.cv ul {
     display: block;  /* vises når JS legger til klassen "open" */
   }
   .sidebar {
-    position: relative;   /* ikke fast */
+    position: relative;   /*fast*/
     width: 100%;          /* tar hele bredden på toppen */
     height: auto;         /* ikke låst til skjermhøyde */
     padding-top: 0;       /* fjerner ekstra topppadding */
+    /* z-index: 2; */
   }
 
   .sidebar div {
