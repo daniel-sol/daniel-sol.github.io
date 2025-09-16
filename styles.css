@@ -117,6 +117,12 @@ body.cv ul {
 
 /* Mobil: stack sidebar over innhold */
 @media (max-width: 767px) {
+  body {
+    max-width: 95ch; /* gjør teksten smalere på mobil */
+    margin: 0 auto;  /* fortsatt sentrert */
+    padding: 0 10px; /* litt luft på sidene */
+  }
+
   .menu {
     display: none;   /* skjul menyen til å begynne med */
   }
