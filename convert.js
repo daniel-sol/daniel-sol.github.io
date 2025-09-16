@@ -98,6 +98,8 @@ ${publishStatement}
 }
 
 function stringIdentical(one, two) {
+  one = one || "";   // fallback til tom streng hvis undefined/null
+  two = two || "";
   let checkone = one.trim().replace(/[\r\n]/g, "");
   let checktwo = two.trim().replace(/[\r\n]/g, "");
   console.log("First string --" + checkone + "--");
@@ -136,7 +138,7 @@ function readSidebar(htmlName) {
   const $ = cheerio.load(html);
 
   // Hent hele div.sidebar (inkludert alle barna)
-  const sidebar = $("div.sidebar").prop("outerHTML");
+  const sidebar = $("div.sidebar").prop("outerHTML") || "";
 
   console.log("Returning: " + sidebar);
   return sidebar;
