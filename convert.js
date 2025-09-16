@@ -120,8 +120,8 @@ function writeHtml(sidebar, md, outHtml, fileName) {
 ${head}
 <body>
 ${sidebar}
-${publishStatement}
 <div class="body-text">
+${publishStatement}
 ${marked(md)}
 </div>
 <script src="sidebar.js"></script>
