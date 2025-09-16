@@ -121,6 +121,8 @@ body.cv ul {
     display: none;   /* skjul menyen til å begynne med */
   }
   .menu-toggle {
+    position: absolute;
+    z-index: 9999;   
     display: block;            /* vis knappen */
     background-color: #95e79f; /* lys grønn bakgrunn */
     color: black;              /* tekst/farge på ☰ */
