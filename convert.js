@@ -88,6 +88,7 @@ function defineHead(mdFile) {
 <meta charset="utf-8">
 <link rel="stylesheet" href="styles.css">
 <title>Daniel Berge Sollien ${title}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="${description_stem} ${description}"/>
 <meta property="article:published_time" content="${today}" />
 </head>
