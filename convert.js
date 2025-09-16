@@ -64,7 +64,7 @@ function defineHead(mdFile) {
   const published = mdFile.includes("english") ? "Published" : "Publisert";
   const today = new Date().toLocaleDateString("no-NO");
   const publishStatement =
-    '<font size="1"><strong>' + published + ": " + today + "</strong></font>";
+    '<p class="publish">' + published + ": " + today + "</p>";
   name = name.includes("Index english")
     ? "Home"
     : name.includes("Index")

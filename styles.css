@@ -7,6 +7,13 @@ body {
     /* venstrejusterer teksten inne i blokken */
 }
 
+.publish {
+  font-size: 0.75rem; /* tilsvarer liten tekst, ca size="1" */
+  font-weight: bold; /* gjør teksten bold uten <strong> */
+  color: #333;         /* valgfritt */
+  margin: 0;           /* fjern ekstra margin hvis ønskelig */
+}
+
 p {
     font-size: 20px;
     line-height: 30px;
