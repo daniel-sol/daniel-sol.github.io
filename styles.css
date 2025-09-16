@@ -86,6 +86,12 @@ body.cv ul {
   
 /* Desktop og nettbrett */
 @media (min-width: 768px) {
+  .menu-toggle {
+    display: none;   /* skjul hamburgerknappen på desktop */
+  }
+  .menu {
+    display: block;  /* menyen er alltid synlig */
+  }
   .sidebar {
     height: 100%;
     width: 150px;
@@ -97,7 +103,7 @@ body.cv ul {
     overflow-y: auto;  /* fint å beholde scrollebar hvis sidebar blir lang */
   }
 
-  .sidebar div {
+  .sidebar a {
     padding: 8px;
     font-size: 24px;
     display: block;
@@ -111,6 +117,12 @@ body.cv ul {
 
 /* Mobil: stack sidebar over innhold */
 @media (max-width: 767px) {
+  .menu {
+    display: none;   /* skjul menyen til å begynne med */
+  }
+  .menu.open {
+    display: block;  /* vises når JS legger til klassen "open" */
+  }
   .sidebar {
     position: relative;   /* ikke fast */
     width: 100%;          /* tar hele bredden på toppen */
