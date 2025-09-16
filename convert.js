@@ -92,9 +92,8 @@ function defineHead(mdFile) {
 <meta name="description" content="${description_stem} ${description}"/>
 <meta property="article:published_time" content="${today}" />
 </head>
-${publishStatement}
 `;
-  return head;
+  return {publishStatement, head};
 }
 
 function stringIdentical(one, two) {
@@ -115,11 +114,13 @@ function stringIdentical(one, two) {
   return check;
 }
 function writeHtml(sidebar, md, outHtml, fileName) {
+  const {publishStatement, head} = defineHead(fileName);
   let html = `
 <html>
-${defineHead(fileName)}
+${head}
 <body>
 ${sidebar}
+${publishStatement}
 <div class="body-text">
 ${marked(md)}
 </div>
