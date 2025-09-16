@@ -120,6 +120,17 @@ body.cv ul {
   .menu {
     display: none;   /* skjul menyen til å begynne med */
   }
+  .menu-toggle {
+    display: block;            /* vis knappen */
+    background-color: #95e79f; /* lys grønn bakgrunn */
+    color: black;              /* tekst/farge på ☰ */
+    border: none;              /* fjern ramme */
+    padding: 10px 15px;        /* litt luft rundt ikonet */
+    font-size: 24px;           /* størrelse på ☰ */
+    cursor: pointer;           /* pekeren blir hånd */
+    border-radius: 5px;        /* valgfritt, rundede hjørner */
+  }
+ 
   .menu.open {
     display: block;  /* vises når JS legger til klassen "open" */
   }

@@ -190,9 +190,12 @@ function filterMdFiles(filterCriteria, reverse = false) {
 }
 
 function makeSideBar(filterCriteria, reverse = false) {
+  console.log("filter: ", filterCriteria)
+  const menu_label = reverse === false? "Menu": "Meny";
+  console.log("Menu label: ", menu_label);
   let sidebar =
    `<div class="sidebar">
-      <button class="menu-toggle">☰ Meny</button>
+      <button class="menu-toggle">☰ ${menu_label}</button>
       <div class="menu">
   `;
   let mds = [];
