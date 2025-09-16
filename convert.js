@@ -38,7 +38,7 @@ function processMdFile(mdFile) {
     sidebar = makeSideBar("english", true);
   }
   if (
-    (stringIdentical(oldSidebar, sidebar) === true) &
+    (stringIdentical(oldSidebar, sidebar) === true) &&
     (mdContentChanged(mdFile, md) === false)
   ) {
     console.log("Not writing");
