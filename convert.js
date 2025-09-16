@@ -123,6 +123,7 @@ ${sidebar}
 <div class="body-text">
 ${marked(md)}
 </div>
+<script src="sidebar.js"></script>
 </body>
 </html>
 `;
@@ -189,7 +190,11 @@ function filterMdFiles(filterCriteria, reverse = false) {
 }
 
 function makeSideBar(filterCriteria, reverse = false) {
-  let sidebar = '\n<div class="sidebar">\n';
+  let sidebar =
+   `<div class="sidebar">
+      <button class="menu-toggle">☰ Meny</button>
+      <div class="menu">
+  `;
   let mds = [];
   if (reverse === false) {
     mds = filterMdFiles(filterCriteria);
@@ -197,9 +202,11 @@ function makeSideBar(filterCriteria, reverse = false) {
     mds = filterMdFiles(filterCriteria, true);
   }
   for (const md of mds) {
-    sidebar += '<div><a href="' + md + '">' + findName(md) + "</a></div>\n";
+    sidebar += '    <a href="' + md + '">' + findName(md) + "</a>\n";
   }
-  sidebar += "</div>\n";
+  sidebar += 
+  `   </div>
+  </div>`;
   sidebar = sidebar.replace(/\.md/g, ".html");
   return sidebar;
 }
