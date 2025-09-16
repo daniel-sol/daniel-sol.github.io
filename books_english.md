@@ -32,7 +32,7 @@ Ariely, D. (2009). _Predictably irrational_ HarperCollins UK.
 Ayres, R. U., & Ayres, E. H. (2009). _Crossing the Energy Divide: Moving from Fossil Fuel Dependence to a Clean-Energy Future._ Pearson Prentice Hall.  
 Bardhan, P. (2022). _A World of Insecurity: Democratic Disenchantment in Rich and Poor Countries._ Harvard University Press.  
 Barnes, P. (2014). _With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don’t Pay Enough._ Berrett-Koehler Publishers.  
-Bjørkdahl, K., & Lykke, K. V. (2023). [_Hva vi spiser når vi spiser kjøtt._](## "What we eat when we eat meat") Res Publica.  
+Bjørkdahl, K., & Lykke, K. V. (2023). <a href="#" class="translation-link" title="What we eat when we eat meat">_Hva vi spiser når vi spiser kjøtt._</a> Res Publica.  
 Bloodworth, J. (2018). _Hired: Six Months Undercover in Low-Wage Britain._ Atlantic Books.  
 Brand, U., & Wissen, M. (2021). _The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism._ Verso Books.  
 Brøgger, J. (1993). _Kulturforståelse: En nøkkel til vår internasjonale samtid._ Damm.  
@@ -49,7 +49,7 @@ Frankl, V. E. (2017). _Man’s Search for Meaning._ Beacon Press.
 Fukuyama, F. (2006). _The End of History and the Last Man._ Simon and Schuster.  
 Fukuyama, F. (2014). _Political Order and Political Decay: From the Industrial Revolution to the Globalisation of Democracy._ Profile Books.  
 Fukuyama, F. (2018). _Identity: The Demand for Dignity and the Politics of Resentment._ Farrar, Straus and Giroux.  
-Gabrielsen, B. (2020). [_Skjermslaver._](## "Screen slaves") Kagge forlag as.  
+Gabrielsen, B. (2020). <a href="#" class="translation-link" title="Screen slaves">_Skjermslaver._</a> Kagge forlag as.  
 Garces, M. (2024). _New Radical Enlightenment: Philosophy for a Common World._ Verso Books.  
 Giblin, R., & Doctorow, C. (2022). _Chokepoint Capitalism._ Beacon Press.  
 Gleeson-White, J. (2015). _Six Capitals, or Can Accountants Save the Planet?: Rethinking Capitalism for the Twenty-First Century._ W. W. Norton & Company.  
@@ -59,10 +59,10 @@ Gray, J. (2015). _Straw Dogs: Thoughts On Humans And Other Animals._ Granta Book
 Habermas, J. (1989). _The Structural Transformation of the Public Sphere: An Inquiry Into a Category of Bourgeois Society._ Polity Press.  
 Harari, Y. N. (2014). _Sapiens: A Brief History of Humankind: The multi-million copy bestseller._ Random House.  
 Hickel, J. (2020). _Less is More: How Degrowth Will Save the World._ Random House.  
-Hippe, I. (2021). [_Korstoget mot velferdsstaten: På innsiden av nyliberale tenketanker._](## "The crusade against the welfare state: On the inside of neoliberal think tanks") Svein Sandnes Bokforlag.  
+Hippe, I. (2021). <a href="#" class="translation-link" title="The crusade against the welfare state: On the inside of neoliberal think tanks">_Korstoget mot velferdsstaten: På innsiden av nyliberale tenketanker._</a> Svein Sandnes Bokforlag.  
 Horkheimer, M., Adorno, T. W., & Noeri, G. (2002). _Dialectic of Enlightenment._ Stanford University Press.  
 Hull, R. B., Robertson, D. P., & Mortimer, M. (2020). _Leadership for Sustainability: Strategies for Tackling Wicked Problems._ Island Press.  
-Isaksen, T. R. (2023). [_Ingen tror på nåtiden: Drømmene fra 1989, hvorfor verden blir mørkere og jakten på lyspunkter._](## "Nobody believes in the present: The dream from 1989, why the world has gotten darker, and the hunt for bright spots") Kagge Forlag.  
+Isaksen, T. R. (2023). <a href="#" class="translation-link" title="Nobody believes in the present: The dream from 1989, why the world has gotten darker, and the hunt for bright spots">_Ingen tror på nåtiden: Drømmene fra 1989, hvorfor verden blir mørkere og jakten på lyspunkter._</a> Kagge Forlag.  
 Jackson, T. (2016). _Prosperity without Growth: Foundations for the Economy of Tomorrow._ Taylor & Francis.  
 Jackson, T. (2021). _Post Growth: Life after Capitalism._ John Wiley & Sons.  
 Jeffries, S. (2022). _Everything, All the Time, Everywhere: How We Became Postmodern._ Verso Books.  
@@ -70,9 +70,9 @@ Kahneman, D. (2011). _Thinking, Fast and Slow._ Penguin UK.
 Klein, N. (2019). _On Fire: The Burning Case for a Green New Deal._ Penguin UK.  
 Lasch, C. (1991). _The Culture of Narcissism: American Life in an Age of Diminishing Expectations._ W. W. Norton & Company.  
 Latour, B. (2018). _Down to Earth: Politics in the New Climatic Regime._ John Wiley & Sons.  
-Lindgren, L. (2021).[ _Ekko: Et essay om algoritmer og begjær._](## "Echo: an essay on algorithms and") Gyldendal.  
-Lykkeberg, R. (2019). [_Vesten mod Vesten: Fortællinger om det politiske opbrud fra efterkrigstiden til Brexit og Trump (1._ utg.).](## "The west against the west: stories about political upheaval from the postwar to Brexit and Trump") Informations Forlag.  
-Marsdal, M. E. (2021). [_Parterapi: For oljefolk og klimaaktivister._](## "Couples therapy: For oil workers and climate activists") Manifest forlag.  
+Lindgren, L. (2021).<a href="#" class="translation-link" title="Echo: an essay on algorithms and"> _Ekko: Et essay om algoritmer og begjær._</a> Gyldendal.  
+Lykkeberg, R. (2019). <a href="#" class="translation-link" title="The west against the west: stories about political upheaval from the postwar to Brexit and Trump">_Vesten mod Vesten: Fortællinger om det politiske opbrud fra efterkrigstiden til Brexit og Trump (1._ utg.).</a> Informations Forlag.  
+Marsdal, M. E. (2021). <a href="#" class="translation-link" title="Couples therapy: For oil workers and climate activists">_Parterapi: For oljefolk og klimaaktivister._</a> Manifest forlag.  
 Mbembe, A. (2020). _Necropolitics._ Duke University Press.  
 Mbembe, A. (2022). _The Earthly Community: Reflections on the Last Utopia._ V2*Publishing.  
 McDonough, W., & Braungart, M. (2013). \_The Upcycle: Beyond Sustainability--Designing for Abundance.* Farrar, Straus and Giroux.  
@@ -83,22 +83,22 @@ Merchant, B. (2023). _Blood in the Machine: The Origins of the Rebellion Against
 Michaels, F. S. (2011). _Monoculture: How One Story Is Changing Everything._ Red Clover Press.  
 Milanovic, B. (2023). _Visions of Inequality: From the French Revolution to the End of the Cold War._ Harvard University Press.  
 Mildenberger, M. (2020). _Carbon Captured: How Business and Labor Control Climate Politics._ MIT Press.  
-Mishra, P. (2019). [_Raseriets tidsalder._](## "Age of anger") Solum forlag as.  
-Mjaaland, M. T., Eriksen, T. H., & Hessen, D. O. (2024). [_Antropocen: Menneskets tidsalder._](## "Anthropocene: The age of humans") Res Publica.  
+Mishra, P. (2019). <a href="#" class="translation-link" title="Age of anger">_Raseriets tidsalder._</a> Solum forlag as.  
+Mjaaland, M. T., Eriksen, T. H., & Hessen, D. O. (2024). <a href="#" class="translation-link" title="Anthropocene: The age of humans">_Antropocen: Menneskets tidsalder._</a> Res Publica.  
 Monbiot, G. (2004). _The Age of Consent: A Manifesto for a New World Order._ Harper Perennial.  
 Monbiot, G. (2013). _Feral: Searching for Enchantment on the Frontiers of Rewilding._ Penguin UK.  
 Moyn, S. (2023). _Liberalism Against Itself: Cold War Intellectuals and the Making of Our Times._ Yale University Press.  
 Nair, C. (2022). _Dismantling Global White Privilege: Equity for a Post-Western World._ Berrett-Koehler Publishers.  
-Nørmark, D., & Jensen, A. F. (2018).[ _Pseudoarbejde: Hvordan vi fik travlt med at lave ingenting (1._ utg.).](## "Pseudowork: how we got busy doing nothing") Gyldendal Business.  
+Nørmark, D., & Jensen, A. F. (2018).<a href="#" class="translation-link" title="Pseudowork: how we got busy doing nothing"> _Pseudoarbejde: Hvordan vi fik travlt med at lave ingenting (1._ utg.).</a> Gyldendal Business.  
 Piketty, T. (2015). _The Economics of Inequality._ Harvard University Press.  
 Piketty, T. (2020). _Capital and Ideology._ Harvard University Press.  
 Polman, P., & Winston, A. (2021). _Net Positive: How Courageous Companies Thrive by Giving More Than They Take._ Harvard Business Press.  
 Rathi, A. (2024). _Climate Capitalism: Winning the Race to Zero Emissions and Solving the Crisis of Our Age._ Greystone Books Ltd.  
 Raworth, K. (2018). _Doughnut Economics: Seven Ways to Think Like a 21st Century Economist._ Chelsea Green Publishing.  
 Read, R., & Alexander, S. (2019). _This Civilisation is Finished: Conversations on the end of Empire - and what lies beyond._ Simplicity Institute.  
-Reinertsen, M. B. (2017). [_Reisen til Bretton Woods._](## "The journey to Bretton Woods") Cappelen Damm.  
+Reinertsen, M. B. (2017). <a href="#" class="translation-link" title="The journey to Bretton Woods">_Reisen til Bretton Woods._</a> Cappelen Damm.  
 Riesman, D., Glazer, N., & Denney, R. (2020). _The Lonely Crowd: A Study of the Changing American Character._ Yale University Press.  
-Riise, A. B. (2021). [_Mitt klimaregnskap._](## "My climate accounting") Res Publica.  
+Riise, A. B. (2021). <a href="#" class="translation-link" title="My climate accounting">_Mitt klimaregnskap._</a> Res Publica.  
 Robinson, K. S. (2020). _The Ministry for the Future._ Hachette UK.  
 Rogan, T. (2019). _The Moral Economists: R. H. Tawney, Karl Polanyi, E. P. Thompson, and the Critique of Capitalism._ Princeton University Press.  
 Rosa, H. (2019). _Resonance: A Sociology of Our Relationship to the World._ John Wiley & Sons.  
@@ -106,20 +106,20 @@ Rosling, H., Rönnlund, A. R., & Rosling, O. (2018). _Factfulness: Ten Reasons W
 Rushkoff, D. (2022). _Survival of the Richest: Escape Fantasies of the Tech Billionaires._ W. W. Norton & Company.  
 Russell, B. (2008). _History of Western Philosophy._ Simon and Schuster.  
 Russell, B. (2022). _The Problems of Philosophy._ DigiCat.  
-Røyne, A. (2020). [_Varm klode, kaldt hode._](## "Hot earth, cool head") Kaldt hode. Kagge forlag as.  
+Røyne, A. (2020). <a href="#" class="translation-link" title="Hot earth, cool head">_Varm klode, kaldt hode._</a> Kaldt hode. Kagge forlag as.  
 Said, E. W. (1995). _Orientalism._ Penguin Books India.  
 Slobodian, Q. (2023). _Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy._ Random House.  
 Snyder, T. (2017). _On Tyranny: Twenty Lessons from the Twentieth Century._ Crown.  
-Stalsberg, L. (2021).[ _Etter pandemien: Tanker om krise, kapitalisme og en ny hverdag (1._ utg.).](## "After the pandemic: Thoughts about crisis, capitalism, and a new way of living") Manifest forlag.  
+Stalsberg, L. (2021).<a href="#" class="translation-link" title="After the pandemic: Thoughts about crisis, capitalism, and a new way of living"> _Etter pandemien: Tanker om krise, kapitalisme og en ny hverdag (1._ utg.).</a> Manifest forlag.  
 Stalsberg, L. (2022). _Det er nok nå: Hvordan nyliberalismen ødelegger mennesker og natur._ Forlaget Manifest AS.  
-Stoknes, P. E. (2020). [_Grønn vekst: En sunn økonomi for det 21. århundre_.](## "Green growth: a healthy economy for the 21. century") Tiden norsk forlag.  
-Stoknes, P. E. (med Jostein Sand Nilsen, & Stoknes, P. E.). (2017). [_Det vi tenker på når vi prøver å ikke tenke på global oppvarming._](## "What we think about when we try not to think about climate change") Tiden.  
+Stoknes, P. E. (2020). <a href="#" class="translation-link" title="Green growth: a healthy economy for the 21. century">_Grønn vekst: En sunn økonomi for det 21. århundre_.</a> Tiden norsk forlag.  
+Stoknes, P. E. (med Jostein Sand Nilsen, & Stoknes, P. E.). (2017). <a href="#" class="translation-link" title="What we think about when we try not to think about climate change">_Det vi tenker på når vi prøver å ikke tenke på global oppvarming._</a> Tiden.  
 Taleb, N. N. (2008). _The Black Swan: The Impact of the Highly Improbable._ Penguin UK.  
 Tetlock, P. E. (2017). _Expert Political Judgment: How Good Is It? How Can We Know? - New Edition._ Princeton University Press.  
 Tetlock, P., & Gardner, D. (2015). _Superforecasting: The Art and Science of Prediction._ Random House.  
 Thaler, R. H., & Sunstein, C. R. (2021). _Nudge: The Final Edition._ Yale University Press.  
 Thompson, H. (2022). _Disorder: Hard Times in the 21st Century._ Oxford University Press.  
-Vetlesen, A. J., & Henriksen, J.-O. (2022). [_Etikk i klimakrisens tid._](## "Ethics in a time of climate crisis") Res Publica.  
+Vetlesen, A. J., & Henriksen, J.-O. (2022). <a href="#" class="translation-link" title="Ethics in a time of climate crisis">_Etikk i klimakrisens tid._</a> Res Publica.  
 Watson, P. (2023). _The Modern Mind: An Intellectual History of the 20th Century._ Harper Collins.  
 Weber, M. (2011). _The Protestant Ethic and the Spirit of Capitalism (S._ Kalberg, Red.). Oxford University Press.  
 Whyte, W. H. (2013). _The Organization Man._ University of Pennsylvania Press.  
