@@ -116,6 +116,7 @@ function stringIdentical(one, two) {
 function writeHtml(sidebar, md, outHtml, fileName) {
   const {publishStatement, head} = defineHead(fileName);
   let html = `
+<!doctype html>
 <html>
 ${head}
 <body>
