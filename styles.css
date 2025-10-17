@@ -93,6 +93,8 @@ h6.cv {
   font-size: 30px;
 }
 body.cv {
+  /* font-size: 10px; */
+  /* max-width: 50ch; */
   width: 800px;         /* ca. A4-bredde på skjerm */
   margin: 0 auto;       /* sentrerer horisontalt */
   background: white;    /* hvit bakgrunn (som et ark) */
@@ -101,7 +103,7 @@ body.cv {
 }
 
 body.cv ul {
-  font-size: 17;
+  font-size: 17px;
   line-height: 22px;
 }
   
@@ -140,6 +142,7 @@ body.cv ul {
 @media (max-width: 767px) {
   body {
     max-width: 95ch; /* gjør teksten smalere på mobil */
+    font-size: 14px;
     margin: 0 auto;  /* fortsatt sentrert */
     padding: 0 10px; /* litt luft på sidene */
   }
