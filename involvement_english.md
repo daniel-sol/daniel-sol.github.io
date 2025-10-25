@@ -9,6 +9,7 @@ After recognising the damaging effects of greenhouse gas emissions on the enviro
 - [e24 2024](https://e24.no/energi-og-klima/i/JbnoWX/equinor-ansatt-fronter-oljeaksjon-bekymret-for-barna-mine)
 - [Klassekampen 2024](https://klassekampen.no/artikkel/2024-09-05/debatt-a-unnga-en-storulykke)
 - [Aftenbladet 2024](https://www.aftenbladet.no/meninger/debatt/i/OoyO11/klimaaksjoner-blind-lojalitet-hvor-man-bare-gjentar-alt-arbeidsgiveren-sier-har-lite-med-lojalitet-aa-gjoere)
+- [Aftenbladet 2025](https://www.aftenbladet.no/okonomi/i/eMbAJM/lisa-rostlund-og-daniel-sollien-om-oljelandet-norge)
 
 ## 🕸️ Networks
 
