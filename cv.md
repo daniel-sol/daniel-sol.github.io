@@ -11,6 +11,10 @@
   <div style="width: 60%;">
     <h6 class="cv">Arbeidserfaring</h6>
     <ul>
+      <li><b>Lærer realfag</b><br>
+      <b>St. Olav Videregående <span class="date">mars-juli 2026</span></b><br>
+      <span class="bread-text">Underviste i naturfag og geografi</span>
+      </li>
       <li><b>Backendutvikler</b><br>
       <b>Equinor <span class="date">2022-24</span></b><br>
       <span class="bread-text">Utvikling av skytjeneste</span>
@@ -26,6 +30,9 @@
     </ul>
     <h6 class="cv">Utdanning</h6>
     <ul>
+    <li><b><a href="https://www.uis.no/" style="color: black;">UIS</a><br>
+      <a href="https://www.uis.no/nb/studier/praktisk-pedagogisk-utdanning-ppu-heltid" style="color:black;">Praktisk-pedagogisk utdanning</a> <span class="date">2025-26</span></b><br>
+      <span class="bread-text">Etterutdanning som lærer med didaktikk i naturfag og matematikk</span></li>
       <li><b><a href="https://www.bi.no/" style="color: black;">BI</a><br>
       <a href="https://www.bi.no/studier-og-kurs/kurs/masterprogram/gronn-vekst-og-konkurransekraft/" style="color:black;">Grønn vekst og konkurransekraft</a> <span class="date">2024-25</span></b><br>
       <span class="bread-text">Executive master-kurs i grønn omstilling og bærekraft</span></li>
@@ -47,7 +54,7 @@
     <b>e-post</b>: daniel.sollien@proton.me<br>
      <b>telefon</b>: +47 48123018<br>
     <b>Bosted</b>: Stavanger<br>
-    <b>Sivilstatus</b>: Gift, 3 døtre (18, 16, 14) <br>
+    <b>Sivilstatus</b>: Gift, 3 døtre (19, 17, 15) <br>
     <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/daniel-sollien-7920a141" style="color: green;">Daniel Sollien</a>
     <br>
     <h6 class="cv">Språk</h6>
@@ -60,8 +67,11 @@
     <span class="skill">Kommunikasjon</span>
     <span class="skill">Rådgivning</span>
     <span class="skill">Prosjektledelse</span>
-    <span class="skill">Geologi</span>
+    <span class="skill">Pedagogikk</span>    
+    <span class="skill">Naturfag</span>  
     <span class="skill">Matematikk</span>
+    <span class="skill">Geologi</span>
+    <span class="skill">Geografi</span>
     <span class="skill">Kjemi</span>
     <span class="skill">Fysikk</span>
     <span class="skill">Statistikk</span>

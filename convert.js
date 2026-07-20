@@ -13,13 +13,13 @@ const titleDescription = {
   Felt: "Feltene jeg har jobbet med",
   Folk: "Noen folk som har inspirert meg",
   Hjem: "Min hjemmeside",
-  Nyheter: "Hvor jeg får nyheter fra",
+  Media: "Hvor jeg får nyheter fra",
   Podcaster: "Podcastene jeg lytter til",
   Books: "The books I have read",
   "Fields english": "The fields I have worked with",
   Home: "My homepage",
   "Involvement english": "The ways I have involved myself",
-  "News english": "Where I get my news from",
+  "Media english": "Where I get my news from",
   "Podcasts english": "Podcasts I listen to",
 };
 function processMdFile(mdFile) {

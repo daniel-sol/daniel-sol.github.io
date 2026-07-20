@@ -1,4 +1,4 @@
-<a href="nyheter.md" class="flag-link">🇳🇴</a>
+<a href="media.md" class="flag-link">🇳🇴</a>
 
 I try to keep updated on news as much as I can. These are the sites that I keep coming back to.
 

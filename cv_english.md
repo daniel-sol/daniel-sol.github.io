@@ -10,7 +10,11 @@
 
   <div style="width: 60%;"> 
     <h6 class="cv">Work experience</h6>
-    <ul>  
+    <ul>
+    <li><b>Science teacher</b><br>
+      <b>St. Olav High School <span class="date">March-July 2026</span></b><br>
+      <span class="bread-text">Taught general science and geography</span>
+      </li>
       <li><b>Backend developer </b><br>
       <b>Equinor <span class="date">2022-24 </b><br> 
       <span class="bread-text">Development of cloud service</span>
@@ -25,6 +29,9 @@
     </ul>
     <h6 class="cv"> Education </h6>
     <ul>
+     <li><b><a href="https://www.uis.no/" style="color: black;">UIS</a><br>
+      <a href="https://www.uis.no/nb/studier/praktisk-pedagogisk-utdanning-ppu-heltid" style="color:black;">Postgraduate certificate in education</a> <span class="date">2025-26</span></b><br>
+      <span class="bread-text">Post graduate training as a teacher with specialisation in maths and general science</span></li>
       <li><b><a href="https://www.bi.no/" style="color: black;">BI Norwegian Business School</a> <br>
       <a href="https://www.bi.no/studier-og-kurs/kurs/masterprogram/gronn-vekst-og-konkurransekraft/" style="color:black;">Green growth and competative advantage</a> <span class="date">2024-25</span></b><br>
       <span class="bread-text">Executive master course on the green transition and sustainability</span></li>
@@ -44,7 +51,7 @@
     <b>E-mail</b>: daniel.sollien@proton.me<br>  
     <b>Phone</b>: +47 48123018 <br>
     <b>Home</b>: Stavanger<br>
-    <b>Civil status</b>: Married, 3 daughters (18, 16, 14)<br>
+    <b>Civil status</b>: Married, 3 daughters (19, 17, 15)<br>
     <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/daniel-sollien-7920a141" style="color: green;">Daniel Sollien</a>
     <br>
     <h6 class="cv">Languages</h6>  
@@ -57,8 +64,11 @@
     <span class="skill">Communication</span>
     <span class="skill">Advisor</span>
     <span class="skill">Project management</span>
-        <span class="skill">Geology</span>
+    <span class="skill">Pedagogy</span>
+    <span class="skill">General science</span>
     <span class="skill">Matemathics</span>
+    <span class="skill">Geology</span>
+    <span class="skill">Geography</span>    
     <span class="skill">Chemistry</span>
     <span class="skill">Physics</span>
     <span class="skill">Statistics</span>
