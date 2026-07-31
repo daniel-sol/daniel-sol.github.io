@@ -16,7 +16,7 @@ I am a person who has many interests. I am fond of outdoor activities, especiall
 >
 > <cite>**Marina Garcés**</cite>
 
-The last couple of years I have tried to involve myself in the change I believe our world needs, for example participated in the public debate, because I believe that we are heading in the wrong direction, in several ways. If you are curious about how I have involved myself you can have a look <a href="involvement.md">here</a>
+The last couple of years I have tried to involve myself in the change I believe our world needs, for example participated in the public debate, because I believe that we are heading in the wrong direction, in several ways. If you are curious about how I have involved myself you can have a look <a href="involvement_english.md">here</a>
 
 One aim of this webpage is to share some of the <a href="people_english.md">people</a>, <a href="books_english.md">books</a>, and <a href="podcasts_english.md">podcasts</a> that have inspired me. Go have a look.
 
