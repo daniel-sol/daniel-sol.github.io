@@ -160,6 +160,7 @@ function mdContentChanged(mdFile, md) {
       hashChanged = false;
     } else {
       console.log("The contents are not identical!");
+      fs.writeFileSync(hashFile, mdHash);
     }
   } else {
     console.log("No pre-generated hash");
