@@ -105,11 +105,10 @@ body.cv {
   margin: 0 auto;       /* sentrerer horisontalt */
   background: white;    /* hvit bakgrunn (som et ark) */
   padding: 20px;        /* luft innenfor kantene */
-  font-family: Arial, sans-serif; /* pen standard font */
 }
 
 body.cv ul {
-  font-size: 17px;
+  /* font-size: 17px; */
   line-height: 22px;
 }
   
