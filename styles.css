@@ -1,3 +1,7 @@
+* {
+     font-family: Arial, sans-serif; /* pen standard font */
+  }
+
 body {
     max-width: 100ch;
     /* maks bredde på teksten */
