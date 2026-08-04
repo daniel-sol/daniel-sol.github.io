@@ -61,7 +61,7 @@ function findName(mdFile) {
 
 function defineHead(mdFile) {
   let name = capitalize(mdFile.replace(/\.md/, "").replace(/_/g, " "));
-  const published = mdFile.includes("english") ? "Published" : "Publisert";
+  const published = mdFile.includes("english") ? "Updated" : "Oppdatert";
   const today = new Date().toLocaleDateString("no-NO");
   const publishStatement =
     '<p class="publish">' + published + ": " + today + "</p>";
