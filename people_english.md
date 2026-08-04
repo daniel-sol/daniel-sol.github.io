@@ -1,4 +1,4 @@
-<a href="people.md" class="flag-link">🇳🇴</a>
+<a href="folk.md" class="flag-link">🇳🇴</a>
 
 ## 🦸🏼‍♀️ People that have inspired me
 
