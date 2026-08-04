@@ -38,11 +38,13 @@ Brand, U., & Wissen, M. (2021). _The Imperial Mode of Living: Everyday Life and 
 Brøgger, J. (1993). _Kulturforståelse: En nøkkel til vår internasjonale samtid._ Damm.  
 Bullough, O. (2018). _Moneyland: Why Thieves And Crooks Now Rule The World And How To Take It Back._ Profile Books.  
 Burnett, D. (2016). _The Idiot Brain: A Neuroscientist Explains What Your Head is Really Up To._ Guardian Faber Publishing.  
+Cohen, S. (2001). States of Denial: _Knowing About Atrocities and Suffering._ Polity Press.  
 De Oliveira, V. M. (2021). _Hospicing modernity: Facing humanity’s wrongs and the implications for social activism._ North Atlantic Books.  
 DiAngelo, R. (2019). _White Fragility: Why It’s So Hard for White People to Talk About Racism._ Penguin UK.  
 Dixson-Declève, S., Gaffney, O., Ghosh, J., Randers, J., Rockström, J., & Stoknes, P. E. (2022). _Earth for all: A survival guide for humanity : a report to the Club of Rome (2022) fifty years after The Limits to Growth (1972)._ New Society Publishers.  
 Dorling, D. (2020). _Slowdown: The End of the Great Acceleration—and Why It’s Good for the Planet, the Economy, and Our Lives._ Yale University Press.  
 Durkheim, É. (1951). _Suicide: A Study in Sociology (G._ Simpson, Red.; J. A. Spaulding & G. Simpson, Overs.). The Free Press.  
+Dutt, D., Alves, C., Kesar, S., & Kvangraven, I. H. (2025). _Decolonizing Economics: An Introduction._ Polity Press.  
 Fisher, M. (2009). _Capitalist Realism: Is There No Alternative?_ John Hunt Publishing.  
 Fisher, R., & Ury, W. (2012). _Getting to Yes: Negotiating an agreement without giving in._ Random House.  
 Frankl, V. E. (2017). _Man’s Search for Meaning._ Beacon Press.  
@@ -61,6 +63,7 @@ Harari, Y. N. (2014). _Sapiens: A Brief History of Humankind: The multi-million 
 Hickel, J. (2020). _Less is More: How Degrowth Will Save the World._ Random House.  
 Hippe, I. (2021). _Korstoget mot velferdsstaten: På innsiden av nyliberale tenketanker._ Svein Sandnes Bokforlag.  
 Horkheimer, M., Adorno, T. W., & Noeri, G. (2002). _Dialectic of Enlightenment._ Stanford University Press.  
+Horvath, J. C. (2025). _The Digital Delusion: How To Topple Big Tech And Save Your Brain._ Wiley.  
 Hull, R. B., Robertson, D. P., & Mortimer, M. (2020). _Leadership for Sustainability: Strategies for Tackling Wicked Problems._ Island Press.  
 Isaksen, T. R. (2023). _Ingen tror på nåtiden: Drømmene fra 1989, hvorfor verden blir mørkere og jakten på lyspunkter._ Kagge Forlag.  
 Jackson, T. (2016). _Prosperity without Growth: Foundations for the Economy of Tomorrow._ Taylor & Francis.  
@@ -93,6 +96,7 @@ Nørmark, D., & Jensen, A. F. (2018). _Pseudoarbejde: Hvordan vi fik travlt med 
 Piketty, T. (2015). _The Economics of Inequality._ Harvard University Press.  
 Piketty, T. (2020). _Capital and Ideology._ Harvard University Press.  
 Polman, P., & Winston, A. (2021). _Net Positive: How Courageous Companies Thrive by Giving More Than They Take._ Harvard Business Press.  
+Postman, N. (1992). _Technopoly: The Surrender of Culture to Technology._ Knopf.  
 Rathi, A. (2024). _Climate Capitalism: Winning the Race to Zero Emissions and Solving the Crisis of Our Age._ Greystone Books Ltd.  
 Raworth, K. (2018). _Doughnut Economics: Seven Ways to Think Like a 21st Century Economist._ Chelsea Green Publishing.  
 Read, R., & Alexander, S. (2019). _This Civilisation is Finished: Conversations on the end of Empire - and what lies beyond._ Simplicity Institute.  
@@ -107,13 +111,17 @@ Rushkoff, D. (2022). _Survival of the Richest: Escape Fantasies of the Tech Bill
 Russell, B. (2008). _History of Western Philosophy._ Simon and Schuster.  
 Russell, B. (2022). _The Problems of Philosophy._ DigiCat.  
 Røyne, A. (2020). _Varm klode._ Kaldt hode. Kagge forlag as.  
+Röstlund, L. (2025). _Norgeparadoxen: En granskning av det goda landets svarta baksida._ Bokförlaget Forum.  
 Said, E. W. (1995). _Orientalism._ Penguin Books India.  
 Slobodian, Q. (2023). _Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy._ Random House.  
 Snyder, T. (2017). _On Tyranny: Twenty Lessons from the Twentieth Century._ Crown.  
+Svendsen, L. Fr. H. (1999). _Kjedsomhetens filosofi._ Universitetsforlaget.  
+Svendsen, L. Fr. H. (2001). _Ondskapens filosofi._ Universitetsforlaget.  
 Stalsberg, L. (2021). _Etter pandemien: Tanker om krise, kapitalisme og en ny hverdag (1._ utg.). Manifest forlag.  
 Stalsberg, L. (2022). _Det er nok nå: Hvordan nyliberalismen ødelegger mennesker og natur._ Forlaget Manifest AS.  
 Stoknes, P. E. (2020). _Grønn vekst: En sunn økonomi for det 21._ århundre. Tiden norsk forlag.  
 Stoknes, P. E. (med Jostein Sand Nilsen, & Stoknes, P. E.). (2017). _Det vi tenker på når vi prøver å ikke tenke på global oppvarming._ Tiden.  
+Tainter, J. A., & Patzek, T. W. (2011). _Drilling Down: The Gulf Oil Debacle and Our Energy Dilemma._ Springer Science & Business Media. https://doi.org/10.1007/978-1-4419-7677-2  
 Taleb, N. N. (2008). _The Black Swan: The Impact of the Highly Improbable._ Penguin UK.  
 Tetlock, P. E. (2017). _Expert Political Judgment: How Good Is It? How Can We Know? - New Edition._ Princeton University Press.  
 Tetlock, P., & Gardner, D. (2015). _Superforecasting: The Art and Science of Prediction._ Random House.  
